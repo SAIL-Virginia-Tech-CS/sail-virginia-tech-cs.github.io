@@ -1,3 +1,4 @@
+console.log("team.js loading");
 function checkWrap(container, items) {
     let isWrapped = false;
   

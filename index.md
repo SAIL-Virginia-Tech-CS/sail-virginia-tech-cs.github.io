@@ -43,5 +43,3 @@ SAIL Lab is always looking for PhD students and exceptional master and undergrad
 ## Recent News!
 
 {% include_relative _pages/recent_news.md %}
-
-{% include scripts/team.html %}
