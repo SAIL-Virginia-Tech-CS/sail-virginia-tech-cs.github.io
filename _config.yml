@@ -311,3 +311,5 @@ scholar:
   source: /_bibliography/
   bibliography: publications.bib
   bibliography_template: bib
+  sort_by: date
+  order: descending

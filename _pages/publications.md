@@ -1,13 +1,9 @@
 ---
 permalink: /publications/
 author_profile: false
-classes: wide
+classes: wide publications
 layout: single
 title: "Publications"
-styles:
-  - "/assets/css/publications.css"
 ---
 
-<div class="publications">
-    {% bibliography %}
-</div>
+{% bibliography %}
