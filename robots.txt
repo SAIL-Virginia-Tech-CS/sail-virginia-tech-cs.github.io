@@ -1,1 +1,1 @@
-Sitemap: https://lancewilhelm.github.io/SAIL-Lab/sitemap.xml
+Sitemap: https://lancewilhelm.github.io/sitemap.xml
