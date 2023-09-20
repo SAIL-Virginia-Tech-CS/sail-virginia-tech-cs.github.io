@@ -251,3 +251,23 @@ a.site-title {
   }
 
 }
+
+//-----------------------------
+// Course
+//-----------------------------
+.course{
+
+  #main {
+    display: flex;
+    justify-content: center;
+  }
+
+  .page {
+    width: 90%;
+    float: none;
+  }
+
+  .videos * {
+    margin-bottom: 0.5em;
+  }
+}
