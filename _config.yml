@@ -26,7 +26,8 @@ baseurl                  : ""
 repository               : "SAIL-Virginia-Tech-CS/sail-virginia-tech-cs.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/sail_logo.png"
-masthead_title           : # overrides the website title displayed in tlancewilhelm/SAIL-Lab
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -114,7 +115,10 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"lancewilhelm/SAIL-Lab
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -192,7 +196,13 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-lancewilhelm/SAIL-Lab
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
@@ -276,7 +286,12 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: truelancewilhelm/SAIL-Lab
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _pages
   - scope:
       path: "_pages"
       type: pages
