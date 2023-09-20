@@ -1,0 +1,12 @@
+.page {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+figure {
+    margin: 0 1em 0 0;
+}
