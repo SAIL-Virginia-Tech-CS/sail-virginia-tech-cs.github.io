@@ -1,0 +1,21 @@
+members:
+  - name: "Dr. Eugenia Rho"
+    title: "Director"
+    url: "https://eugeniarho.com/"
+    image: "assets/images/Rho_c-150x150.png"
+  - name: "Xiaohan Ding"
+    title: "PhD"
+    url:
+    image: "assets/images/Ding_c-150x150.png"
+  - name: "Buse Carik"
+    title: "PhD"
+    url:
+    image: "assets/images/Buse_c-150x150.png"
+  - name: "Kaike Ping"
+    title: "PhD"
+    url:
+    image: "assets/images/Ping_c-150x150.png"
+  - name: "Anisha Kumar"
+    title: "MS"
+    url:
+    image: "assets/images/Anisha_c-150x150.png"
