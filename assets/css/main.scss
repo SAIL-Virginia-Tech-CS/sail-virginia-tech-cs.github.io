@@ -34,6 +34,14 @@ a.site-title {
     margin: 0 10px;
 }
 
+.team-photos p {
+  text-align: center;
+}
+
+.team-photos a img:hover {
+    box-shadow: none !important;
+}
+
 //-----------------------------
 // Publications
 //-----------------------------
