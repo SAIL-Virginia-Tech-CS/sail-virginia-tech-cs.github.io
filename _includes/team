@@ -12,6 +12,3 @@
         {% endfor %}
     </div>
 </div>
-
-<!-- Script for adding margin when wrapping -->
-<script src='assets/js/team.js'></script>

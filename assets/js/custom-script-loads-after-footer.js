@@ -1,5 +1,6 @@
-// add toggle functionality to abstract and bibtex buttons
-$(document).ready(function() {
+//------------------------------------------------
+// Add toggle functionality to abstract and bibtex buttons in publications
+//------------------------------------------------
 $('a.abstract').click(function() {
     console.log("clicked");
     $(this).parent().parent().find(".abstract.bib-hidden").toggleClass('open');
@@ -10,4 +11,46 @@ $('a.bibtex').click(function() {
     $(this).parent().parent().find(".abstract.bib-hidden.open").toggleClass('open');
 });
 $('a').removeClass('waves-effect waves-light');
+
+//------------------------------------------------
+// Creates margin between team photos if they wrap
+//------------------------------------------------
+function checkWrap(container, items) {
+    let isWrapped = false;
+  
+    for (let i = 1; i < items.length; i++) {
+      if (items[i].offsetTop > items[i - 1].offsetTop) {
+        isWrapped = true;
+        break;
+      }
+    }
+  
+    if (isWrapped) {
+      items.forEach((item) => {
+        item.style.marginBottom = '30px';
+      });
+    } else {
+      items.forEach((item) => {
+        item.style.marginBottom = '0';
+      });
+    }
+  }
+  
+const team_container = document.querySelector('.team-photos');
+const team_items = document.querySelectorAll('.team-photos-img');
+
+// Initial check
+checkWrap(team_container, team_items);
+
+// Re-check on window resize
+window.addEventListener('resize', () => {
+checkWrap(team_container, team_items);
 });
+
+//------------------------------------------------
+// Project Slider event listener
+//------------------------------------------------
+$(".option").click(function(){
+    $(".option").removeClass("active");
+    $(this).addClass("active");
+ });
