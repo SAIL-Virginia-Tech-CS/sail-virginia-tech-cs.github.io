@@ -48,9 +48,37 @@ checkWrap(team_container, team_items);
 });
 
 //------------------------------------------------
-// Project Slider event listener
+// Project Slider event listener and auto rotate
 //------------------------------------------------
 $(".option").click(function(){
     $(".option").removeClass("active");
     $(this).addClass("active");
  });
+
+ let activeIndex = 0;
+ let numOptions = $('.option').length;
+ let autoSwitch;
+ 
+ const switchActive = () => {
+   $('.option').removeClass('active');
+   $(`.option:eq(${activeIndex})`).addClass('active');
+ };
+ 
+ const autoSwitchActive = () => {
+   if (autoSwitch) clearInterval(autoSwitch);
+   
+   autoSwitch = setInterval(() => {
+     activeIndex = (activeIndex + 1) % numOptions;
+     switchActive();
+   }, 5000);
+ };
+ 
+ switchActive();
+ autoSwitchActive();
+ 
+ $('.option').hover(
+   () => clearInterval(autoSwitch),
+   () => autoSwitchActive()
+ );
+ 
+ 
