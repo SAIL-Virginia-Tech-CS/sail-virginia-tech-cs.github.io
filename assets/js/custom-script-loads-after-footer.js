@@ -80,5 +80,3 @@ $(".option").click(function(){
    () => clearInterval(autoSwitch),
    () => autoSwitchActive()
  );
- 
- 
