@@ -1,14 +1,12 @@
-<div>
-    <div class="team-photos">
-        {% for mbr in site.data.team.members %}
-        <div class="team-photos-img">
-            {% if mbr.url %}
-            <a href="{{ mbr.url }}"><img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/></a>
-            {% else %}
-            <img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/>
-            {% endif %}
-            <p>{{ mbr.name }} ({{ mbr.title }})</p>
-        </div>
-        {% endfor %}
+<div class="team-photos">
+    {% for mbr in site.data.team.members %}
+    <div class="team-photos-img">
+        {% if mbr.url %}
+        <a href="{{ mbr.url }}"><img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/></a>
+        {% else %}
+        <img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/>
+        {% endif %}
+        <p>{{ mbr.name }} ({{ mbr.title }})</p>
     </div>
+    {% endfor %}
 </div>

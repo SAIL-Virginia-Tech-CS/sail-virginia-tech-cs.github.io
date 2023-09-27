@@ -80,8 +80,17 @@ a.site-title {
     align-items: center;
     height: 150px;
     width: 150px;
-    font-size: 0.7em;
+    font-size: 0.8em;
     margin: 0 10px;
+
+    img {
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    p {
+      margin-top: 5px;
+    }
 }
 
 .team-photos p {

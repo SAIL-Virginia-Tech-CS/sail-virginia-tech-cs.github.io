@@ -7,7 +7,7 @@ classes: wide home
 ---
 
 <div class='rho-profile-header'>
-    <img src='/assets/images/Eugenia_headshot-2.png' class='align-left' alt='Eugenia Rho Professional Headshot'/>
+    <img src='/assets/images/team/Eugenia_headshot-2.png' class='align-left' alt='Eugenia Rho Professional Headshot'/>
 
     <div class='rho-profile-header-text'>
     <h2>About Me</h2>

@@ -27,7 +27,7 @@ function checkWrap(container, items) {
   
     if (isWrapped) {
       items.forEach((item) => {
-        item.style.marginBottom = '30px';
+        item.style.marginBottom = '60px';
       });
     } else {
       items.forEach((item) => {
