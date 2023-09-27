@@ -5,15 +5,6 @@ classes: wide course
 layout: single
 title: "CS5914 (Fall 2023): Human-AI Interaction Powered by LLMs"
 ---
----
-
-| Course Details         |             |
-|------------------------|-------------|
-| **Instructor**         | Eugenia Rho |
-| **Teaching Assistant** |             |
-| **Location**           | Torg 1040   |
-| **Office Hours**       |             |
-| **Feedback Form**      |             |
 
 ## Course Description
 
