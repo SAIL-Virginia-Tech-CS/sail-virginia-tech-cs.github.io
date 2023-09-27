@@ -1,9 +1,9 @@
 ---
-permalink: /projects/
+permalink: /research/
 author_profile: false
 layout: single
-classes: wide projects
-title: "Projects"
+classes: wide research
+title: "Research"
 ---
 
 ## CROSS: Counter Response Online Suggestion System (CROSS): Leveraging Linguistic Artificial Intelligence to Help Users Counter Gray Areas of Online Toxicity

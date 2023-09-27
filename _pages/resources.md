@@ -1,9 +1,9 @@
 ---
-permalink: /lab-resources/
+permalink: /resources/
 author_profile: false
 layout: single
-classes: wide lab-resources
-title: "Lab Resources"
+classes: wide resources
+title: "Resources"
 
 feature_row:
   - image_path: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*q6gWQpexN5TlGb5GZitEKw.png
