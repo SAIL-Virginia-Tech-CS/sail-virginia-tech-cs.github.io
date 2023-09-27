@@ -9,11 +9,61 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 //-----------------------------
+// GLOBAL CHANGES
+//-----------------------------
+
+.page {
+  width: 100%;
+}
+
+//-----------------------------
 // Masthead
 //-----------------------------
 a.site-title {
     color: $primary-color;
 }
+
+//-----------------------------
+// Home
+//-----------------------------
+
+.home {
+  .rho-profile-header {
+    display: flex;
+    align-items: center;
+
+    img {
+      max-height: 300px;
+      width: auto;
+      // border-radius: 50%;
+      // object-fit: cover;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    @media (max-width: 600px) {
+      flex-direction: column;
+      h2 {
+        margin-top: 25px;
+      }
+    }
+
+    .rho-profile-header-text {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
+  }
+}
+
+
+//-----------------------------
+// Press
+//-----------------------------
+
+
 
 //-----------------------------
 // Team photos
@@ -57,10 +107,6 @@ a.site-title {
 
   @include breakpoint($x-large) {
     font-size: 18px;
-  }
-
-  .page {
-    width: 100%;
   }
 
   .row {
@@ -250,14 +296,10 @@ a.site-title {
   }
 
 //-----------------------------
-// Lab Resources
+// Resources
 //-----------------------------
-.lab-resources{
+.resources{
 
-  .page {
-    width: 100%;
-  }
-  
   // Crop the images in the feature row and center them vertically
   .archive__item-teaser {
     height: 200px;
@@ -276,13 +318,7 @@ a.site-title {
 //-----------------------------
 // Teaching
 //-----------------------------
-.teaching{
 
-  .page {
-    width: 100%;
-  }
-
-}
 
 //-----------------------------
 // Course
@@ -294,37 +330,15 @@ a.site-title {
     justify-content: center;
   }
 
-  .page {
-    width: 90%;
-    float: none;
-  }
-
   .videos * {
     margin-bottom: 0.5em;
   }
 }
 
 //-----------------------------
-// Projects
+// Research
 //-----------------------------
-.projects{
 
-  .page {
-    width: 100%;
-  }
-
-}
-
-//-----------------------------
-// Test Page
-//-----------------------------
-.test-page{
-
-  .page {
-    width: 100%;
-  }
-
-}
 
 //-----------------------------
 // Project Slider
