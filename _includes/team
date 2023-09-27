@@ -6,7 +6,10 @@
         {% else %}
         <img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/>
         {% endif %}
-        <p>{{ mbr.name }} ({{ mbr.title }})</p>
+        <div class='team-photos-title'>
+            <p>{{ mbr.name }}</p>
+            <p>({{ mbr.title }})</p>
+        </div>
     </div>
     {% endfor %}
 </div>

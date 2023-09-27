@@ -83,22 +83,19 @@ a.site-title {
     font-size: 0.8em;
     margin: 0 10px;
 
+    p {
+      text-align: center;
+      margin: 0;
+    }
+
     img {
       border-radius: 50%;
       object-fit: cover;
     }
 
-    p {
-      margin-top: 5px;
-    }
-}
-
-.team-photos p {
-  text-align: center;
-}
-
-.team-photos a img:hover {
-    box-shadow: none !important;
+    a img:hover {
+      box-shadow: none !important;
+  }
 }
 
 //-----------------------------
