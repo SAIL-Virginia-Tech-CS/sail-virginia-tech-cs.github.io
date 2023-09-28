@@ -19,8 +19,13 @@ search: false
 //-----------------------------
 // Masthead
 //-----------------------------
-a.site-title {
+.masthead {
+  font-size: 0.9rem;
+
+  a.site-title {
+    font-size: 1rem;
     color: $primary-color;
+  }
 }
 
 //-----------------------------
