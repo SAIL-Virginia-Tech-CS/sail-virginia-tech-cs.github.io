@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-feed"
+  gem 'jekyll-email-protect'
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"

@@ -232,6 +232,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-include-cache
   - jekyll/scholar
+  - jekyll-email-protect
 
 # mimic GitHub Pages with --safe
 whitelist:

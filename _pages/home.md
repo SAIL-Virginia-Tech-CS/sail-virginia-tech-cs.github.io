@@ -4,15 +4,24 @@ author_profile: false
 layout: single
 classes: wide home
 # title: "Eugenia Rho"
+
+# Social media and other links
+email: eugenia@vt.edu
+cv: /assets/pdf/Rho_CV.pdf
+scholar_userid: jFXHPvoAAAAJ
 ---
 
 <div class='rho-profile-header'>
-    <img src='/assets/images/team/Eugenia_headshot-2.png' class='align-left' alt='Eugenia Rho Professional Headshot'/>
-
+    <div class='rho-profile-img'>
+        <img src='/assets/images/team/Eugenia_headshot-2.png' alt='Eugenia Rho Professional Headshot'/>
+        <p>Gilbert Place, 220 Gilbert Street, Blacksburg, VA, 24060</p>
+        {% include social.html %}
+    </div>
     <div class='rho-profile-header-text'>
     <h2>About Me</h2>
 
-    I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the SAIL (Society + AI & Language) Lab. My research lies at the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science (CSS) by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines.  
+    <p>I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the <a href='/sail'>SAIL (Society + AI & Language) Lab</a>. My research lies at the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science (CSS) by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines.  </p>
+    
     </div>
 </div>
 
@@ -39,8 +48,6 @@ classes: wide home
 - CSCW Doctoral Consortium Fellowship, 2019, $1,565
 - Roberta Ellen Lamb Memorial Fellowship, 2018, $10,000
 - Graduate Dean’s Recruitment Fellowship, 2015, $5,000
-
-## Curriculum Vitae
 
 ## Invited Talks
 

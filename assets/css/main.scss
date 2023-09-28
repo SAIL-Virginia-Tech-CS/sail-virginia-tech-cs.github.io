@@ -28,16 +28,12 @@ a.site-title {
 //-----------------------------
 
 .home {
+  h2 {
+    margin-top: 1.2rem;
+  }
   .rho-profile-header {
     display: flex;
-    align-items: center;
-
-    img {
-      max-height: 300px;
-      width: auto;
-      // border-radius: 50%;
-      // object-fit: cover;
-    }
+    align-items: flex-start;
 
     h2 {
       margin-top: 0;
@@ -45,8 +41,38 @@ a.site-title {
 
     @media (max-width: 600px) {
       flex-direction: column;
-      h2 {
-        margin-top: 25px;
+      align-items: center;
+    }
+
+    .rho-profile-img {
+      display: flex;
+      flex-direction: column;
+      margin-right: 25px;
+      flex-grow: 2;
+
+      img {
+        width: 75rem;
+        height: auto;
+      }
+
+      @media (max-width: 600px) {
+        align-items: center;
+        margin-right: 0;
+        img {
+            max-width: 300px;
+            height: auto;
+          }
+      }
+
+      p {
+        font-size: 0.75rem;
+        margin-top: 5px;
+        margin-bottom: 0;
+        text-align: center;
+
+        @media (max-width: 600px) {
+          font-size: 1rem;
+        }
       }
     }
 
@@ -54,6 +80,32 @@ a.site-title {
       display: flex;
       justify-content: center;
       flex-direction: column;
+      flex-grow: 1;
+    }
+  }
+
+  .social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    .social-btns {
+      display: flex;
+      align-items: center;
+      font-size: 2rem;
+
+      a {
+        margin: 0 5px;
+      }
+      
+      .btn {
+        font-size: 1rem;
+        padding: 0.2rem;
+      }
+    }
+
+    .contact-note {
+      font-size: 0.75rem;
     }
   }
 }
