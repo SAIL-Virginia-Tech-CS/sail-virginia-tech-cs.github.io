@@ -1,6 +1,6 @@
 <h3>Current</h3>
 <div class="team-photos">
-    {% for mbr in site.data.team.members %}
+    {% for mbr in site.data.team %}
     {% if mbr.current %}
     <div class="team-photos-img">
         {% if mbr.url %}
@@ -19,7 +19,7 @@
 </div>
 <h3>Alumni</h3>
 <div class="team-photos">
-    {% for mbr in site.data.team.members %}
+    {% for mbr in site.data.team %}
     {% if mbr.current == false %}
     <div class="team-photos-img">
         {% if mbr.url %}
