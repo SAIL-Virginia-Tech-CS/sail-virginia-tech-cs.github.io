@@ -1,5 +1,7 @@
+<h3>Current</h3>
 <div class="team-photos">
     {% for mbr in site.data.team.members %}
+    {% if mbr.current %}
     <div class="team-photos-img">
         {% if mbr.url %}
         <a href="{{ mbr.url }}"><img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/></a>
@@ -11,5 +13,26 @@
             <p>({{ mbr.title }})</p>
         </div>
     </div>
+
+    {% endif %}
+    {% endfor %}
+</div>
+<h3>Alumni</h3>
+<div class="team-photos">
+    {% for mbr in site.data.team.members %}
+    {% if mbr.current == false %}
+    <div class="team-photos-img">
+        {% if mbr.url %}
+        <a href="{{ mbr.url }}"><img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/></a>
+        {% else %}
+        <img src="{{ mbr.image | relative_url }}" alt="{{ mbr.name }}"/>
+        {% endif %}
+        <div class='team-photos-title'>
+            <p>{{ mbr.name }}</p>
+            <p>({{ mbr.title }})</p>
+            <div class="job">{{ mbr.job }}</div>
+        </div>
+    </div>
+    {% endif %}
     {% endfor %}
 </div>
