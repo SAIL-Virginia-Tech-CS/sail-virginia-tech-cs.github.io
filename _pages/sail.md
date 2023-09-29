@@ -6,7 +6,7 @@ layout: home
 permalink: /sail/
 author_profile: false
 title: "Welcome to SAIL Lab"
-excerpt: "We strive to advance Computational Social Science (CSS) by using AI and sociolinguistics to better understand how AI-mediated systems impact interactions across people and machines."
+excerpt: "At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines."
 
 header:
   overlay_filter: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0.25))
@@ -15,13 +15,9 @@ header:
 
 The Society + AI & Language (SAIL) Lab at Virginia Tech is led by [Dr. Eugenia H. Rho](https://eugeniarho.com/).
 
-At SAIL, we strive to advance Computational Social Science (CSS) by using AI and sociolinguistics to better understand how AI-mediated systems impact interactions across people and machines.
+At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines.
 
-To this end, our interdisciplinary team combines expertise in Natural Language Processing (NLP) and Human-Computer Interaction (HCI) to bridge the gap between the technical and social aspects of computer science.
-
-Our mission at SAIL is to design more inclusive and effective AI systems that positively impact society. To achieve this, we employ both deep learning and experimental design to analyze large-scale data and develop insights into the complex interactions between AI and language. Our research explores the impact of language and AI on social dynamics, user experience, and communication, with a particular focus on addressing the ethical and social implications of these systems.
-
-By developing novel computational techniques that blend AI and language, we hope to create a more comprehensive understanding of how AI-mediated systems interact with people, culture, and society.
+Our mission at SAIL is to design more inclusive and effective AI systems that positively impact society. To achieve this we leverage our expertise in Natural Language Processing (NLP) and Human-Computer Interaction (HCI) to bridge the gap between the technical and social aspects of computer science. We use computational linguistics and experimental design to analyze large-scale data and develop insights into the complex interactions across people and machines, with a particular focus on understanding the social implications of these systems.
 
 ## To Prospective Students
 
