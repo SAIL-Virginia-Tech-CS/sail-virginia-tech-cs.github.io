@@ -167,6 +167,9 @@ search: false
 // Publications
 //-----------------------------
 .publications {
+  .page__content {
+    margin-top: -40px;
+  }
 
   @include breakpoint($medium) {
     font-size: 18px;
@@ -220,7 +223,12 @@ search: false
 
       .preview {
         flex-shrink: 0;
-        margin-top: 5px;
+
+        img {
+          object-fit: cover;
+          max-height: 132px;
+          object-position: 0% 0%;
+        }
 
         @media (max-width: 599px) {
           width: 100px;
@@ -290,10 +298,8 @@ search: false
       .links {
         a.btn {
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding: 0.25rem 0.25rem 0.25rem 0.25rem;
+
           margin-left: 0;
 
           &:hover {

@@ -334,6 +334,7 @@ scholar:
   bibliography_template: bib
   sort_by: date
   order: descending
+  group_by: venue
 
 after_footer_scripts:
   - /assets/js/custom-script-loads-after-footer.js
