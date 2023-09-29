@@ -416,8 +416,16 @@ search: false
 // Research
 //-----------------------------
 .research {
+  .page__content {
+    margin-top: -40px;
+  }
+  
   h2 {
     text-align: center;
+    background-color: $secondary-color;
+    padding: 1.5em;
+    border-radius: 4px;
+    border: 0;
   }
 }
 

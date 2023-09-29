@@ -24,6 +24,8 @@ The increasing prevalence of counter-speech as a tool to challenge online hate s
 
 This user study investigates user interactions and preferences with a system powered by Large Language Models (LLMs) designed to generate counterspeech. Our goal is to understand editing patterns and strategies (tone, rhetorical style, etc.) users prefer when responding to harmful content on social media.  
 
+---
+
 ## Affecting Real-World Changes Through Improved Discourse Strategies and Conversational Norms
 
 ### Prompt-Based Large Language Models: Predicting Health Decisions Through Social Media Language
@@ -33,6 +35,8 @@ This project uses a multi-step reasoning framework and prompt-based large langua
 ### Interpretable NLP in Traffic Stops: Understanding Officer Speech in Escalated Interactions
 
 This collaboration with Stanford University uses NLP and deep learning interpretation techniques to analyze officer speech in traffic stops with Black drivers from police body-worn camera footage. We aim to identify early interaction patterns associated with escalated outcomes and compare model results with human perspectives to better understand the public’s perception and concerns in police interactions. [paper link]
+
+---
 
 ## Examining Social Biases in Online Public Discourse
 
