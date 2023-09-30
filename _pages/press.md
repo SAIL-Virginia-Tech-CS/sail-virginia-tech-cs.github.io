@@ -5,3 +5,5 @@ layout: single
 classes: wide press
 title: "Press"
 ---
+
+{% include press %}
