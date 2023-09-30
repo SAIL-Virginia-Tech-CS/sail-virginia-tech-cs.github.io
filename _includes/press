@@ -1,0 +1,27 @@
+<div class="press-items">
+    {% for item in site.data.press %}
+    <div class="press-item">
+        <div class='press-item-image'>
+            <img src="{{ item.image | prepend: '/assets/images/press/' }}" alt="{{ item.name }}"/>
+        </div>
+        <div class='press-item-publisher'>
+            <a href="{{ item.publisher_url }}">{{ item.publisher }}</a>
+        </div>
+        <div class='press-item-title'>
+            {{ item.title }}
+        </div>
+        <div class='press-item-description'>
+            {{ item.description }}
+        </div>
+        <div class='press-item-author'>
+            <a href="{{ item.author_url }}">{{ item.author }}</a>
+        </div>
+        <div class='press-item-date'>
+            {{ item.date }}
+        </div>
+        <div class='press-item-link'>
+            <a href="{{ item.link }}" class="btn btn--primary">{{ item.link_text }}</a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

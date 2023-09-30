@@ -218,19 +218,21 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /blog/page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-imagemagick
   - jekyll-include-cache
   - jekyll/scholar
+  - jekyll-email-protect
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -277,6 +279,25 @@ compress_html:
   ignore:
     envs: development
 
+# -----------------------------------------------------------------------------
+# Responsive WebP Images
+# -----------------------------------------------------------------------------
+
+imagemagick:
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  widths:
+    - 480
+    - 800
+    - 1400
+  input_directories:
+    - assets/images/
+  input_formats:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".tiff"
+  output_formats:
+    webp: "-resize 800x"
 
 # Defaults
 defaults:
@@ -313,6 +334,7 @@ scholar:
   bibliography_template: bib
   sort_by: date
   order: descending
+  group_by: venue
 
 after_footer_scripts:
   - /assets/js/custom-script-loads-after-footer.js

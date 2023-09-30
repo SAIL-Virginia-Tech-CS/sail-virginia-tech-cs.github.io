@@ -3,17 +3,8 @@ permalink: /teaching/cs5914-human-ai-interaction-powered-by-llms/
 author_profile: false
 classes: wide course
 layout: single
-title: "CS5914 (Fall 2023): Human-AI Interaction Powered by LLMs"
+title: 'CS5914 (Fall 2023): Human-AI Interaction Powered by LLMs'
 ---
----
-
-| Course Details         |             |
-|------------------------|-------------|
-| **Instructor**         | Eugenia Rho |
-| **Teaching Assistant** |             |
-| **Location**           | Torg 1040   |
-| **Office Hours**       |             |
-| **Feedback Form**      |             |
 
 ## Course Description
 
@@ -31,4 +22,6 @@ This course will introduce students to ways of thinking about how recent develop
 
 At the minimum, students should have an intermediate proficiency in python programming. A basic knowledge of deep / machine learning, statistics, and prior coursework in Human-Computer Interaction (HCI) are a plus, but not required. This course will include in-class LLM tutorial sessions designed to help you with your course project.
 
-## [Reading List](https://tinyurl.com/CS5914RHO)
+## Reading List
+
+<iframe src="/assets/pages/cs5914_readings/Sheet1.html" width="100%" height="500px"></iframe>

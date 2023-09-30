@@ -1,0 +1,143 @@
+# Add new items to the top of the page! They are rendered on site in the order they appear here.
+
+- publisher: VT News
+  publisher_url: https://news.vt.edu/
+  title: Two networks, two realities, one big problem
+  description: Researchers at Virginia Tech have documented an escalating cycle of political polarization in American broadcast news and X, formerly known as Twitter, that could have dire consequences for democracy
+  author: Tonia Moxley
+  author_url: https://news.vt.edu/content/news_vt_edu/en/contacts/tonia-moxley.html
+  date: August 25, 2023
+  link: https://news.vt.edu/articles/2023/08/eng-cs-two-networks--two-realities--one-big-problem.html
+  image: two_networks.jpg
+  link_text: <i class='fas fa-book'></i> Read
+
+- publisher: NPR Atlanta
+  publisher_url: https://www.wabe.org/
+  title: "New Study: Officers' First Communication with Black Drivers Can Determine Traffic Stop Outcome"
+  description: New study sheds light on how an officers' first communication with Black drivers can determine the outcome of a traffic stop...
+  interviewedby: Rose Scott
+  reportedby: LaShawn Hudson
+  date: June 13, 2023
+  link: https://www.wabe.org/new-study-sheds-light-on-how-an-officers-first-communication-with-black-drivers-can-determine-the-outcome-of-a-traffic-stop/
+  image: new_study.jpg
+  link_text: <i class='fas fa-headphones'></i> Listen & <i class='fas fa-book'></i> Read
+
+- publisher: CNN
+  publisher_url: https://www.cnn.com/
+  title: Alisyn Camerota interviews Eugenia Rho on CNN Tonight about her latest research
+  date: June 6, 2023
+  link: https://www.youtube.com/watch?v=fw-5fIT2yAI&t=3s&pp=ygUPY25uIGV1Z2VuaWEgcmhv
+  image: alisyn_camerota.png
+  link_text: <i class='fab fa-youtube'></i> Watch
+
+- publisher: CNN
+  publisher_url: https://www.cnn.com/
+  title: CNN Tonight panel discusses recent study that highlights how traffic stops end in escalation
+  date: June 6, 2023
+  link: https://www.youtube.com/watch?v=3p_35DRqAFk&t=59s&pp=ygUPY25uIGV1Z2VuaWEgcmhv
+  image: cnn_panel.png
+  link_text: <i class='fab fa-youtube'></i> Watch
+
+- publisher: KCBS Radio
+  publisher_url: https://omny.fm/shows/kcbsam-on-demand
+  title: A study found a racial bias during police traffic stops and police orders
+  description: A new study analyzing police body-camera footage from 577 routine car stops involving Black drivers highlights the substantial impact...
+  date: June 1, 2023
+  link: https://omny.fm/shows/kcbsam-on-demand/a-study-found-a-racial-bias-during-police-traffic
+  image: kcbs_radio.png
+  link_text: <i class='fas fa-headphones'></i> Listen
+
+- publisher: Scripps News
+  publisher_url: https://scrippsnews.com/
+  title: "Study: Officer's First 45 Words in Traffic Stop Could Predict Outcome"
+  date: June 1, 2023
+  link: https://www.youtube.com/watch?v=V8j0Uan6vcc&t=108s&pp=ygUXc2NyaXBwIG5ld3MgZXVnZW5pYSByaG8%3D
+  image: scripps_video.png
+  link_text: <i class='fab fa-youtube'></i> Watch
+
+- publisher: NPR
+  publisher_url: https://www.npr.org/
+  title: For Black drivers, a police officer's first 45 words are a sign of what's to come
+  description: A study finds a Black driver is more likely to face being searched, handcuffed or arrested when an officer's first words are commands...
+  author: Nell Greenfieldboyce
+  author_url: https://www.npr.org/people/4494969/nell-greenfieldboyce
+  date: May 31, 2023
+  link: https://www.npr.org/2023/05/31/1179030783/for-black-drivers-a-police-officers-first-45-words-are-a-sign-of-whats-to-come
+  image: npr.png
+  link_text: <i class='fas fa-headphones'></i> Listen & <i class='fas fa-book'></i> Read
+
+- publisher: Scripps News
+  publisher_url: https://scrippsnews.com/
+  title: "Study: Officer's first 45 words in traffic stop could predict outcome"
+  description: A new study found Black drivers are more likely to face being searched, handcuffed or arrested when an officer's first 45 words are commands
+  author: Jamal Andress
+  author_url: https://scrippsnews.com/team/jamal-andress/
+  date: May 31, 2023
+  link: https://scrippsnews.com/stories/study-officer-s-first-45-words-in-traffic-stop-could-predict-outcome/
+  image: scripps_interview.png
+  link_text: <i class='fab fa-youtube'></i> Watch & <i class='fas fa-book'></i> Read
+
+- publisher: NPR
+  publisher_url: https://www.npr.org/
+  title: For Black drivers, a police officer's first 45 words are a sign of what's to come
+  description: Scientists are studying police camera footage to understand why some car stops of Black men escalate and others don't
+  author: Nell Greenfieldboyce
+  author_url: https://www.npr.org/people/4494969/nell-greenfieldboyce
+  date: May 29, 2023
+  link: https://www.npr.org/2023/05/29/1178279383/for-black-drivers-a-police-officers-first-45-words-are-a-portent-of-whats-to-com
+  image: npr_atc.jpeg
+  link_text: <i class='fas fa-headphones'></i> Listen & <i class='fas fa-book'></i> Read
+
+- publisher: VT News
+  publisher_url: https://news.vt.edu/
+  title: Vehicle stop study illuminates importance of officer's first words
+  description: Eugenia Rho is the lead author of a recent study that highlights key components of traffic stops that end in escalation
+  author: Travis Williams
+  author_url: https://news.vt.edu/content/news_vt_edu/en/contacts/travis-williams.html
+  date: May 29, 2023
+  link: https://news.vt.edu/articles/2023/05/cm-trafficstopstudy.html
+  image: vehicle_stops.jpg
+  link_text: <i class='fas fa-book'></i> Read
+
+- publisher: Radio New Zealand
+  publisher_url: https://www.rnz.co.nz/
+  title: Political hashtags make people less likely to believe the news
+  description: A new study out of the University of California set out to find whether people responded differently to the presence or absence of political hashtags in news stories...
+  interviewer: Jim Mora
+  date: December 15, 2019
+  link: https://www.rnz.co.nz/national/programmes/sunday/audio/2018727011/political-hashtags-make-people-less-likely-to-bel
+  image: rnz.png
+  link_text: <i class='fas fa-headphones'></i> Listen & <i class='fas fa-book'></i> Read
+
+- publisher: Salon
+  publisher_url: https://www.salon.com/
+  title: "Political hashtags like #Metoo and #Blacklivesmatter make people less likely to believe the news"
+  description: When news stories include a catchy hashtag, readers perceived the news topic to be less socially important
+  author: Eugenia Ha Rim Rho
+  author_url: https://eugeniarho.com/
+  date: November 30, 2019
+  link: https://www.salon.com/2019/11/30/political-hashtags-like-metoo-and-blacklivesmatter-make-people-less-likely-to-believe-the-news_partner/
+  image: salon.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- publisher: Nieman Lab
+  publisher_url: https://www.niemanlab.org/
+  title: "Political hashtags like #Metoo and #Blacklivesmatter make some people doubt the stories they're attached to"
+  description: "''This is a load of crap on a number of levels.'' ''This article reads 'FAKE NEWS.''' ''I don't believe this post is backed with any real knowledge or fact.'' A simple hashtag intended to boost a post's audience on social can..."
+  author: Eugenia Ha Rim Rho
+  author_url: https://eugeniarho.com/
+  date: November 26, 2019
+  link: https://www.niemanlab.org/2019/11/political-hashtags-like-metoo-and-blacklivesmatter-make-some-people-doubt-the-stories-theyre-attached-to/
+  image: niemanlab.jpg
+  link_text: <i class='fas fa-book'></i> Read
+
+- publisher: The Conversation
+  publisher_url: https://theconversation.com/
+  title: "Political hashtags like #Metoo and #Blacklivesmatter make people less likely to believe the news"
+  description: News outlets sometimes use hashtags to promote their stories
+  author: Eugenia Ha Rim Rho
+  author_url: https://eugeniarho.com/
+  date: November 26, 2019
+  link: https://theconversation.com/political-hashtags-like-metoo-and-blacklivesmatter-make-people-less-likely-to-believe-the-news-126415
+  image: conversation.png
+  link_text: <i class='fas fa-book'></i> Read

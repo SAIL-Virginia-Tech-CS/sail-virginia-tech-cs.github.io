@@ -1,9 +1,15 @@
 main:
-  - title: "Projects"
-    url: /projects/
+  - title: "Press"
+    url: /press/
+  - title: "News"
+    url: /news/
   - title: "Publications"
     url: /publications/
-  - title: "Lab Resources"
-    url: /lab-resources/
+  - title: "Research"
+    url: /research/
+  - title: "SAIL"
+    url: /sail/
   - title: "Teaching"
     url: /teaching/
+  - title: "Resources"
+    url: /resources/
