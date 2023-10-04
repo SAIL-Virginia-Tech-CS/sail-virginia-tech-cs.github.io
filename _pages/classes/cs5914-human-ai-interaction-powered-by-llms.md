@@ -31,8 +31,8 @@ At the minimum, students should have an intermediate proficiency in python progr
 
 <!-- <iframe src="/assets/pages/cs5914_readings/Sheet1.html" width="100%" height="500px"></iframe> -->
 
-|Week|Date|Topic|Reading|
-|-|-|-|-|
+|Week|Date&nbsp;&nbsp;&nbsp;&nbsp;|Topic|Reading|
+|:-:|-|:-:|-|
 |1|21-Aug|Introduction and Course Overview|Licklider, Joseph CR. "Man-computer symbiosis." IRE transactions on human factors in electronics 1 (1960): 4-11. (read in class)|
 |^^|^^|^^|Shyam Sankar. The Rise of Human Computer Cooperation. TED Talk Video, 2012 (12 mins).|
 |^^|23-Aug|Primer on AI|Lubars, Brian, and Chenhao Tan. "Ask not what AI can do, but what AI should do: Towards a framework of task delegability." In Advances in Neural Information Processing Systems, pp. 57-67. 2019.|
@@ -64,7 +64,7 @@ At the minimum, students should have an intermediate proficiency in python progr
 |8|09-Oct|Columbus Day||
 |^^|11-Oct|LLM-Supported Health Care|Jo, E., Epstein, D. A., Jung, H., & Kim, Y. H. (2023, April). Understanding the benefits and challenges of deploying conversational AI leveraging large language models for public health intervention. (CHI 2023)|
 |^^|^^|^^|Chen, S., Wu, M., Zhu, K. Q., Lan, K., Zhang, Z., & Cui, L. (2023). LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation. arXiv preprint arXiv:2305.13614.|
-|9|October 16 - 18|Instuctor is out of town for CSCW||
+|9|Oct 16-18|Instuctor is out of town for CSCW||
 |10|23-Oct|Tutorial: Web Application Hosting for LLM-Powered Tools (come to class with laptop)||
 |^^|25-Oct|LLM Accesibility and Neurodiversity|Valencia, S., Cave, R., Kallarackal, K., Seaver, K., Terry, M., & Kane, S. K. (2023, April). “The less I type, the better”: How AI Language Models can Enhance or Impede Communication for AAC Users. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-14).|
 |^^|^^|^^|For Some Autistic People, ChatGPT Is a Lifeline, WIRED, 2023|
@@ -79,7 +79,7 @@ At the minimum, students should have an intermediate proficiency in python progr
 |^^|^^|^^|Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models (demo: https://www.youtube.com/watch?v=EWFixIk4vjs&t=2s)|
 |^^|15-Nov|Text to Visual/ Audio|Lyu, C., Wu, M., Wang, L., Huang, X., Liu, B., Du, Z., ... & Tu, Z. (2023). Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration. arXiv preprint arXiv:2306.09093.|
 |^^|^^|^^|Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models; Demo: HuggingFace Suno Bark Application or Demo of Choice|
-|14|November 19 - 23|Thanksgiving Break||
+|14|Nov 19-23|Thanksgiving Break||
 |15|27-Nov|Creative Applications|FaceChat: An Emotion-Aware Face-to-face Dialogue Framework|
 |^^|^^|^^|Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. arXiv preprint arXiv:2304.03442.|
 |^^|29-Nov|No Class, Work on Final Project||
