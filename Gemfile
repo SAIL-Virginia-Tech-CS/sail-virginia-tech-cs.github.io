@@ -17,4 +17,5 @@ group :jekyll_plugins do
   gem "jekyll-scholar"
   gem "bibtex-ruby"
   gem "webrick"
+  gem 'jekyll-spaceship'
 end
