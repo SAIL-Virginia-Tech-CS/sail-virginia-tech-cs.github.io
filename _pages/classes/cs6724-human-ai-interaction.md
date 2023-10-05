@@ -11,7 +11,7 @@ title: "CS6724 (Spring 2023): Human AI-Interaction"
 |------------------------|-------------|
 | **Instructor**         | Eugenia Rho |
 | **Teaching Assistant** |             |
-| **Location**           |             |
+| **Location**           | [VT](https://vt.edu/) |
 | **Office Hours**       |             |
 | **Feedback Form**      |             |
 

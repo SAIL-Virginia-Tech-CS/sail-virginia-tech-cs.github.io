@@ -80,3 +80,8 @@ $(".option").click(function(){
    () => clearInterval(autoSwitch),
    () => autoSwitchActive()
  );
+
+//------------------------------------------------
+// Delele all <br> tags in <tr> elements
+//------------------------------------------------
+$("tr").find("br").remove();

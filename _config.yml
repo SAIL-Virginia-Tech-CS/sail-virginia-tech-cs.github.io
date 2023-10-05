@@ -233,6 +233,7 @@ plugins:
   - jekyll-include-cache
   - jekyll/scholar
   - jekyll-email-protect
+  - jekyll-spaceship
 
 # mimic GitHub Pages with --safe
 whitelist:
