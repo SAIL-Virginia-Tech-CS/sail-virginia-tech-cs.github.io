@@ -1,0 +1,64 @@
+//-----------------------------
+// Resources
+//-----------------------------
+.resources {
+  .resources-items {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .resources-item {
+      max-width: 260px;
+      margin: 15px;
+      border-bottom: #666 1px solid;
+
+      * {
+        margin-bottom: 15px;
+      }
+      .resources-item-image {
+        img {
+          max-height: auto; 
+          width: 100%;
+          object-fit: fill;
+        }
+      }
+      .resources-item-publisher {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        color: #550909;
+        a {
+          color: inherit;
+          text-decoration: none;
+        }
+      }
+      .resources-item-title {
+        font-family: 'Lora', serif;
+        font-size: 1.2rem;
+      }
+      .resources-item-description {
+        font-size: 0.75rem;
+        font-style: italic;
+      }
+      .resources-item-author {
+        font-weight: bold;
+        font-size: 0.8rem;
+        color: #550909;
+        margin-bottom: 10px;
+        a {
+          color: inherit;
+          text-decoration: none;
+        }
+      }
+      .resources-item-date {
+        font-weight: bold;
+        font-size: 0.8rem;
+      }
+      .resources-item-link {
+        i {
+          margin: 0;
+        }
+      }
+    }
+  }
+}
