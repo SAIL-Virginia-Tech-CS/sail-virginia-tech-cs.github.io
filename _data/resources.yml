@@ -1,0 +1,46 @@
+# Add new items to the top of the page! They are rendered on site in the order they appear here.
+
+- title: Data Annotator Using Gradio
+  description: Recently, I helped annotate over 600 rows of data for a counter-hate speech project. This was a very tedious task, and I was looking for a way to speed up the process...
+  author: Lance Wilhelm
+  author_url: https://lancewilhelm.github.io/
+  date: September 23, 2023
+  link: https://lancewilhelm.github.io/blog/2023/gradio_annotator/
+  image: hate_speech.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- title: A Survey of Large Language Models - Cheatsheet
+  description: The following is an attempt to condense 58 pages of excellent information on Large Language Models (LLM), Zhao et al. (2023), A Survey of Large Language Models, into a cheat sheet webpage
+  author: Lance Wilhelm
+  author_url: https://lancewilhelm.github.io/
+  date: September 1, 2023
+  link: https://lancewilhelm.github.io/blog/2023/llm_survey/
+  image: zhao_et_al.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- title: Customizing Surveys with Qualtrics
+  description: Utilizing Qualtrics to insert text into survey questions and repeat a specific number of questions for the respondent
+  author: Xiaohan Ding
+  author_url: http://xiaohan-site.com/
+  date: January 22, 2023
+  link: https://medium.com/@xiaohan_63326/use-qualtrics-to-embed-text-4b6e1673b251
+  image: qualtrics.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- title: Analyzing Twitter Hashtags Networks with Gephi 0.10 (Newest) and Twitter API
+  description: Use Gephi to analyze Twitter hashtags, specifically within the network of verified users
+  author: Xiaohan Ding
+  author_url: http://xiaohan-site.com/
+  date: January 14, 2023
+  link: https://medium.com/@xiaohan_63326/analyzing-twitter-hashtags-networks-with-gephi-0-10-newest-85547dd72ea6
+  image: twitter_gephi.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- title: Fine Tuning BERT for Sentiment Analysis
+  description: Fine-tune the BERT model for IMDB Review Sentiment Analysis. This tutorial is designed to be general and can be applied to fine-tuning BERT for sentiment analysis tasks on your own dataset
+  author: Xiaohan Ding
+  author_url: http://xiaohan-site.com/
+  date: January 1, 2023
+  link: https://medium.com/@xiaohan_63326/fine-tune-fine-tuning-bert-for-sentiment-analysis-f5002b08f10a
+  image: BERT_finetune.png
+  link_text: <i class='fas fa-book'></i> Read

@@ -1,0 +1,24 @@
+<div class="resources-items">
+    {% for item in site.data.resources %}
+    <div class="resources-item">
+        <div class='resources-item-image'>
+            <img src="{{ item.image | prepend: '/assets/images/resources/' }}" alt="{{ item.name }}"/>
+        </div>
+        <div class='resources-item-title'>
+            {{ item.title }}
+        </div>
+        <div class='resources-item-description'>
+            {{ item.description }}
+        </div>
+        <div class='resources-item-author'>
+            <a href="{{ item.author_url }}">{{ item.author }}</a>
+        </div>
+        <div class='resources-item-date'>
+            {{ item.date }}
+        </div>
+        <div class='resources-item-link'>
+            <a href="{{ item.link }}" class="btn btn--primary">{{ item.link_text }}</a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

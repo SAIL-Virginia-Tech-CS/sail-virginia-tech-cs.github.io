@@ -52,14 +52,14 @@
   image: "assets/images/team/Sophia_c.jpeg"
   current: true
 
-- name: "Uma Gunturi"
+- name: "<i class='fas fa-graduation-cap'></i> Uma Gunturi"
   title: "MS"
   url:
   image: "assets/images/team/Uma_c.png"
   current: false
   job: "Machine Learning Engineer, IBM"
   
-- name: "Rohan Leeha"
+- name: "<i class='fas fa-graduation-cap'></i> Rohan Leeha"
   title: "MS"
   url:
   image: "assets/images/team/Rohan_c.png"
