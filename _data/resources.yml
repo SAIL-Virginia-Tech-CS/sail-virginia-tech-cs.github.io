@@ -1,5 +1,32 @@
 # Add new items to the top of the page! They are rendered on site in the order they appear here.
 
+- title: "Vue.js Chatbot - Part 3: GPT-3.5 and MongoDB"
+  description: In the last part we will integrate GPT-3.5 and MonogoDB into our chatbot
+  author: Lance Wilhelm
+  author_url: https://lancewilhelm.github.io/
+  date: October 26, 2023
+  link: https://lancewilhelm.github.io/blog/2023/vue_chatbot3/
+  image: chatbot3.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- title: "Vue.js Chatbot - Part 2: The Back-End"
+  description: In the second part we build the back-end for the chatbot using FastAPI
+  author: Lance Wilhelm
+  author_url: https://lancewilhelm.github.io/
+  date: October 26, 2023
+  link: https://lancewilhelm.github.io/blog/2023/vue_chatbot2/
+  image: chatbot2.png
+  link_text: <i class='fas fa-book'></i> Read
+
+- title: "Vue.js Chatbot - Part 1: The Front-End"
+  description: In this first part we build our front-end chatbot using Vue.js
+  author: Lance Wilhelm
+  author_url: https://lancewilhelm.github.io/
+  date: October 25, 2023
+  link: https://lancewilhelm.github.io/blog/2023/vue_chatbot1/
+  image: chatbot1.png
+  link_text: <i class='fas fa-book'></i> Read
+
 - title: Data Annotator Using Gradio
   description: Recently, I helped annotate over 600 rows of data for a counter-hate speech project. This was a very tedious task, and I was looking for a way to speed up the process...
   author: Lance Wilhelm
