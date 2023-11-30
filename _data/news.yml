@@ -1,4 +1,19 @@
 # Add new items to the top of the page! They are rendered on site in the order they appear here.
+- date: 2023/12
+  title: Dr. Rho gave a talk at the <a href='https://sanghani.cs.vt.edu/'>Sanghani Center for Artificial Intelligence and Data Analytics</a>
+  description:
+
+- date: 2023/11
+  title: Dr. Rho gave a talk to the Self-Advocate Advisory Committee at <a href='https://www.vtcar.science.vt.edu/'>Virginia Tech Center for Autism Research</a>
+  description:
+
+- date: 2023/10
+  title: Dr. Rho gave a talk at the <a href='https://www.clsp.jhu.edu/'>Center for Language and Speech Processing, Whiting School of Engineering, Johns Hopkins University</a>
+  description:
+
+- date: 2023/08
+  title: Welcoming our newest SAIL lab members, <a href='https://lancewilhelm.github.io'>Lance Wilhelm</a>, Taufiq Daryanto, <a href='http://www.linkedin.com/in/sophia-stil-183122248'>Sophia Stil</a> 🎉
+  description:
 
 - date: 2023/07
   title: Welcoming our newest SAIL lab member, Xiaozheng Wang! 🎉
