@@ -40,11 +40,11 @@
   image: "assets/images/team/Taufiq_c.png"
   current: true
 
-- name: "Anisha Kumar"
+- name: "<i class='fas fa-graduation-cap'></i> Anisha Kumar"
   title: "MS"
   url: "https://www.linkedin.com/in/anishakumar96/"
   image: "assets/images/team/Anisha_c-150x150.png"
-  current: true
+  current: false
 
 - name: "Sophia Stil"
   title: "MS"
