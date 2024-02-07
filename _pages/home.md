@@ -40,6 +40,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Grants, Awards, and Fellowships  
 
+- Designing AI as a Mental Health Resource for Autistic Adults: Enhancing Therapeutic Approaches with Multimodal Interactions, World Health Consortium, Role: PI; $40,000
 - Integrating Neurodivergence into the STEM Workforce, Oak Ridge Associated Universities, 2023, Role: Co-PI; $75,000
 - EmotionAIze - Empathy-Driven Interactive Human-AI System for Countering Negative-Self Talk for Autistic Individuals, Virginia Tech Center for Human-Computer Interaction, 2023, Role: PI; $25,000  
 - Predicting Online Groupthink Rhetoric in COVID-19 Health Mandate Discourse, Virginia Tech Center forPeace Studies and Violence Prevention, 2021, Role: PI, $15,000
