@@ -22,12 +22,6 @@
   image: "assets/images/team/Buse_c-150x150.png"
   current: true
 
-- name: "Xiaozheng Wang"
-  title: "PhD"
-  url:
-  image: "assets/images/team/Xiaozheng_c.png"
-  current: true
-
 - name: "Lance Wilhelm"
   title: "PhD"
   url: "https://lancewilhelm.github.io"
