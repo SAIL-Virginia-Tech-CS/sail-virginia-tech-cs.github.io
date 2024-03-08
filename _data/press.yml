@@ -1,4 +1,14 @@
 # Add new items to the top of the page! They are rendered on site in the order they appear here.
+- publisher: VT News
+  publisher_url: https://news.vt.edu/
+  title: Seed grants fuel multidisciplinary, community-engaged mental health research
+  description: From using artificial intelligence to help adults with autism to developing interventions for food insecurity among young children, a range of systemic factors that contribute to inequitable mental health outcomes will be explored with the first seed grants from the newly formed Whole Health Consortium, housed within Virginia Tech's Institute of Society, Culture, and Environment.
+  author: Becca Halm
+  author_url: https://news.vt.edu/content/news_vt_edu/en/contacts/becca-halm.html
+  date: March 7, 2024
+  link: https://news.vt.edu/articles/2024/03/whole-health-seed-grant-winners.html
+  image: whc.png
+  link_text: <i class='fas fa-book'></i> Read
 
 - publisher: Forbes
   publisher_url: https://www.forbes.com/
