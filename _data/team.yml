@@ -12,7 +12,7 @@
 
 - name: "Kaike Ping"
   title: "PhD"
-  url:
+  url: "https://people.cs.vt.edu/pkk"
   image: "assets/images/team/Ping_c-150x150.png"
   current: true
 
