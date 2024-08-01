@@ -6,11 +6,11 @@
 $background-color: #ffffff !default;
 $text-color: #40514e !default;
 $muted-text-color: #40514e !default;
-$primary-color: #31b4ea !default;
-$secondary-color: #74c5e8 !default;
+$primary-color: #17549C !default;
+$secondary-color: #3b608a !default;
 $border-color: mix(#fff, #40514e, 75%) !default;
-$footer-background-color: #30e3ca !default;
-$link-color: #31b4ea !default;
+/* $footer-background-color: #30e3ca !default; */
+$link-color: #17549C !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
@@ -41,7 +41,7 @@ $h-size-6: 1em !default; // ~16px
 
 .page__footer {
   color: #fff !important; // override
-  background-color: #31b4ea !important; // override
+  background-color: #17549C !important; // override
 }
 
 .page__footer-follow .social-icons i,

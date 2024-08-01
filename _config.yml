@@ -25,7 +25,7 @@ url                      : "https://sail-virginia-tech-cs.github.io"
 baseurl                  : ""
 repository               : "SAIL-Virginia-Tech-CS/sail-virginia-tech-cs.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/sail_logo.png"
+logo                     : #"assets/images/sail_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
