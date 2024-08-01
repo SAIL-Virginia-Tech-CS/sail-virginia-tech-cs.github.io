@@ -2,15 +2,15 @@
 // Research
 //-----------------------------
 .research {
-    .page__content {
-      margin-top: -40px;
-    }
-  
-    h2 {
-      text-align: center;
-      background-color: $secondary-color;
-      padding: 1.5em;
-      border-radius: 4px;
-      border: 0;
-    }
+  .page__content {
+    margin-top: -40px;
   }
+
+  h2 {
+    border-bottom: 1.5px solid $secondary-color;
+  }
+
+  h3 {
+    margin-top: 1em;
+  }
+}
