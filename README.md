@@ -18,7 +18,7 @@ Then, you can run the following command to build and serve the page locally:
 bundle exec jekyll serve
 ```
 
-You can then access the page at [http://localhost:4000/](http://localhost:4000/). You can modify the content of the page by modifying the corresponding markdown files. The page will be updated upon reload when you save the changes.
+You can then access the page at [http://localhost:4000/](http://localhost:4000/) or [http://127.0.0.1:4000](http://127.0.0.1:4000) depending on your system. You can modify the content of the page by modifying the corresponding markdown files. The page will be updated upon reload when you save the changes.
 
 ## Modifying Existing Pages
 
