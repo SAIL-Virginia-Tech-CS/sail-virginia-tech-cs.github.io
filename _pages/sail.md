@@ -5,7 +5,7 @@
 layout: home
 permalink: /sail/
 author_profile: false
-title: "Welcome to SAIL Lab"
+title: "Welcome to Society + AI Language Lab"
 excerpt: "At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines."
 
 header:
