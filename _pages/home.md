@@ -20,7 +20,7 @@ scholar_userid: jFXHPvoAAAAJ
     <div class='rho-profile-header-text'>
     <h2>About Me</h2>
 
-    <p>I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the <a href='/sail'>SAIL (Society + AI & Language) Lab</a>. My research lies at the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science (CSS) by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines.  </p>
+    <p>I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the <a href='/sail'>SAIL (Society + AI & Language) Lab</a>. My research lies at the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science (CSS) by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines.</p>
     
     </div>
 </div>
@@ -29,6 +29,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 - Ph.D., Informatics, University of California, Irvine
 - B.A., Political Science, Columbia University (Columbia College), New York, NY
+
 
 ## Professional Appointments
 
@@ -50,7 +51,7 @@ scholar_userid: jFXHPvoAAAAJ
 - Roberta Ellen Lamb Memorial Fellowship, 2018, $10,000
 - Graduate Dean’s Recruitment Fellowship, 2015, $5,000
 
-## Invited Talks
+## Talks
 
 - [Words Matter: How Language Choices Predict Societal Trends and Outcomes in Media, Health, and Policing](/assets/pdf/VTLxSpeakerSeries.pdf), VTLx Speaker Series, *February 2024*
 - [Johns Hopkins Center for Language and Speech Processing (CLSP) Seminar](https://www.youtube.com/watch?v=do6eNValls0), Johns Hopkins CS NLP Group, *November 2023*
