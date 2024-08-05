@@ -324,12 +324,9 @@ defaults:
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
 scholar:
-
   style: apa
   locale: en
-
   source: /_bibliography/
   bibliography: publications.bib
   bibliography_template: bib

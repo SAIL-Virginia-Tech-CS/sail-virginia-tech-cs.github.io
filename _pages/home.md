@@ -30,7 +30,6 @@ scholar_userid: jFXHPvoAAAAJ
 - Ph.D., Informatics, University of California, Irvine
 - B.A., Political Science, Columbia University (Columbia College), New York, NY
 
-
 ## Professional Appointments
 
 - Assistant Professor, Computer Science Department, Virginia Tech  
@@ -44,7 +43,7 @@ scholar_userid: jFXHPvoAAAAJ
 - Designing AI as a Mental Health Resource for Autistic Adults: Enhancing Therapeutic Approaches with Multimodal Interactions, World Health Consortium, Role: PI; $40,000
 - Integrating Neurodivergence into the STEM Workforce, Oak Ridge Associated Universities, 2023, Role: Co-PI; $75,000
 - EmotionAIze - Empathy-Driven Interactive Human-AI System for Countering Negative-Self Talk for Autistic Individuals, Virginia Tech Center for Human-Computer Interaction, 2023, Role: PI; $25,000  
-- Predicting Online Groupthink Rhetoric in COVID-19 Health Mandate Discourse, Virginia Tech Center forPeace Studies and Violence Prevention, 2021, Role: PI, $15,000
+- Predicting Online Groupthink Rhetoric in COVID-19 Health Mandate Discourse, Virginia Tech Center for Peace Studies and Violence Prevention, 2021, Role: PI, $15,000
 - ACM CHI Best Research Honorable Mention Award, 2020  
 - Kling Endowed Memorial Fellowship, University of California, Irvine, 2020, $2,000
 - CSCW Doctoral Consortium Fellowship, 2019, $1,565
@@ -58,3 +57,13 @@ scholar_userid: jFXHPvoAAAAJ
 - [Supporting Mental Health in Neurodiverse Communities: Enhancing Large Language Model Accessibility through Multimodal Human-AI Interactions (Project Motivation)](https://www.canva.com/design/DAFfWKiWyqg/at0rTi5-ddcTEm2c7IX1hQ/view?utm_content=DAFfWKiWyqg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel), Institute for Creativity, Arts, & Technology (ICAT) Playdate, Virginia Tech, *October 2023* 
 - [AI @ IA : Research in the Age of Artificial Intelligence](https://blog.archive.org/event/ai-ia-research-in-the-age-of-artificial-intelligence/), Internet Archive, *October 2023*
 - [Design of Online Environments and the Quality of Democratic Discourse At-Scale](https://www.youtube.com/watch?v=HFHLxzaNYBM&t=452s), Stanford CS547 - Human-Computer Interaction Seminar Series, Stanford University, *February 2021*
+
+## Selected News
+
+{% include news_selected %}
+
+## Selected Publications
+
+<div class='publications selected'>
+    {% bibliography --query @*[selected] %}
+</div>

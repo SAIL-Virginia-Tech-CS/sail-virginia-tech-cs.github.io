@@ -34,6 +34,14 @@ Some pages are built from templates, which leverages the power of [Liquid](https
 
 `publications.md` leverages the [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) plugin and creates a custom bibliography from the `_layouts/bib.html` template. The `_bibliography` folder contains the bibtex file with each publication. To add a new publication, you can add a new entry to the bibtex file. The new publication will be automatically added to the page. **Please pay attention to the bibtex record type (e.g. inproceedings, article, online, etc.) and field names as they are used to determine the citation style.**
 
+### Selected News
+
+The selected news items on the home page are selected via the `selected` boolean in the `_data/news.yml` file. Changing an item's `selected` value to `true` will display it on the home page.
+
+### Selected Publications
+
+The selected publications on the home page are selected via the `selected` bibtex field in the `_bibliography/publications.bib` file. Adding `selected = {}` to an entry will display it on the home page. Please pay attention to commas within bibtex entries as forgetting them may causing breakage. A safe bet is to reference other entries for guidance.
+
 ## Pushing Updates
 
 Once you are satisfied with the changes, you can push the changes to the master branch. The page will be automatically updated within a few minutes. If you are not a member of the SAIL Lab Github organization, you will need to fork the repository and submit a pull request to the master branch. The pull request will be reviewed by the maintainers of the repository before being merged into the master branch.
