@@ -2,208 +2,217 @@
 // Publications
 //-----------------------------
 .publications {
-    .page__content {
-      margin-top: -40px;
+  .page__content {
+    margin-top: -40px;
+  }
+
+  @include breakpoint($medium) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px;
+  }
+
+  .row {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  figure {
+    margin: 0 1em 0 0;
+  }
+
+  img {
+    margin: 0 !important;
+  }
+
+  h2 {
+    margin-bottom: 1rem;
+
+    span {
+      font-size: 1.5rem;
     }
-  
-    @include breakpoint($medium) {
-      font-size: 18px;
-    }
-  
-    @include breakpoint($large) {
-      font-size: 18px;
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 18px;
-    }
-  
-    .row {
-        display: flex;
-        align-items: flex-start;
-    }
-  
-    figure {
-        margin: 0 1em 0 0;
-    }
-  
-    img {
-        margin: 0 !important;
-    }
-  
-    h2 {
+  }
+
+  h2.year {
+    color: var(--global-divider-color);
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: -2rem;
+    text-align: right;
+  }
+
+  ol.bibliography {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+
+    li {
       margin-bottom: 1rem;
-  
-      span {
-        font-size: 1.5rem;
+      -o-transition: 0.15s ease;
+      transition: all 0.15s ease;
+
+      .preview {
+        flex-shrink: 0;
+
+        img {
+          object-fit: cover;
+          max-height: 132px;
+          object-position: 0% 0%;
+        }
+
+        @media (max-width: 599px) {
+          width: 100px;
+        }
+
+        @media (min-width: 600px) {
+          width: 150px;
+        }
       }
-    }
-  
-    h2.year {
-      color: var(--global-divider-color);
-      border-top: 1px solid var(--global-divider-color);
-      padding-top: 1rem;
-      margin-top: 2rem;
-      margin-bottom: -2rem;
-      text-align: right;
-    }
-  
-    ol.bibliography {
-      list-style: none;
-      padding: 0;
-      margin-top: 0;
-  
-      li {
-        margin-bottom: 1rem;
-  
-        .preview {
-          flex-shrink: 0;
-  
-          img {
-            object-fit: cover;
-            max-height: 132px;
-            object-position: 0% 0%;
-          }
-  
-          @media (max-width: 599px) {
-            width: 100px;
-          }
-      
-          @media (min-width: 600px) {
-            width: 150px;
-          }
-        }
-  
-        .abbr {
-          height: 2rem;
-          margin-bottom: 0.5rem;
-  
-          abbr {
-            display: inline-block;
-            background-color: var(--global-theme-color);
-            padding-left: 1rem;
-            padding-right: 1rem;
-  
-            a {
-              color: white;
-  
-              &:hover {
-                text-decoration: none;
-              }
-            }
-          }
-  
-          .award {
-            color: var(--global-theme-color) !important;
-            border: 1px solid var(--global-theme-color);
-          }
-        }
-  
-        .title {
-          font-weight: bolder;
-        }
-  
-        .author {
+
+      .abbr {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+
+        abbr {
+          display: inline-block;
+          background-color: var(--global-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+
           a {
-            border-bottom: 1px dashed var(--global-theme-color);
-  
+            color: white;
+
             &:hover {
-              border-bottom-style: solid;
               text-decoration: none;
             }
           }
-  
-          >em {
-            border-bottom: 1px solid;
-            font-style: normal;
-          }
-  
-          >span.more-authors {
-            color: var(--global-text-color-light);
-            border-bottom: 1px dashed var(--global-text-color-light);
-            cursor: pointer;
-  
-            &:hover {
-              color: var(--global-text-color);
-              border-bottom: 1px dashed var(--global-text-color);
-            }
-          }
         }
-  
-        .links {
-          a.btn {
-            border: 1px solid var(--global-text-color);
-            padding: 0.25rem 0.25rem 0.25rem 0.25rem;
-  
-            margin-left: 0;
-  
-            &:hover {
-              color: var(--global-theme-color);
-              border-color: var(--global-theme-color);
-            }
-          }
-        }
-  
-        .badges {
-          padding-bottom: 0.5rem;
-          span {
-            display: inline-block;
-            color: #000;
-            height: 100%;
-            padding-right: 0.5rem;
-            vertical-align: middle;
-  
-            &:hover {
-              text-decoration: underline;
-            }
-          }
-        }
-  
-        .bib-hidden {
-          font-size: 0.875rem;
-          max-height: 0px;
-          overflow: hidden;
-          text-align: justify;
-          transition-property: 0.15s ease;
-          -moz-transition: 0.15s ease;
-          -ms-transition: 0.15s ease; @media (max-width: 599px) {
-            .preview img {
-              width: 100px;
-              height: auto;
-            }
-          }
-        }
-          -o-transition: 0.15s ease;
-          transition: all 0.15s ease;
-  
-          p {
-            line-height: 1.4em;
-            margin: 10px;
-          }
-  
-          pre {
-            font-size: 1em;
-            line-height: 1.4em;
-            padding: 10px;
-          }
-        }
-  
-        .bib-hidden.open {
-          max-height: 100em;
-          transition-property: 0.15s ease;
-          -moz-transition: 0.15s ease;
-          -ms-transition: 0.15s ease;
-          -o-transition: 0.15s ease;
-          transition: all 0.15s ease;
-        }
-  
-        div.abstract.bib-hidden {
-          border: dashed 1px var(--global-bg-color);
-        }
-  
-        div.abstract.bib-hidden.open {
-          border-color: var(--global-text-color);
+
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
         }
       }
+
+      .title {
+        font-weight: bolder;
+      }
+
+      .author {
+        a {
+          border-bottom: 1px dashed var(--global-theme-color);
+
+          &:hover {
+            border-bottom-style: solid;
+            text-decoration: none;
+          }
+        }
+
+        >em {
+          border-bottom: 1px solid;
+          font-style: normal;
+        }
+
+        >span.more-authors {
+          color: var(--global-text-color-light);
+          border-bottom: 1px dashed var(--global-text-color-light);
+          cursor: pointer;
+
+          &:hover {
+            color: var(--global-text-color);
+            border-bottom: 1px dashed var(--global-text-color);
+          }
+        }
+      }
+
+      .links {
+        a.btn {
+          border: 1px solid var(--global-text-color);
+          padding: 0.25rem 0.25rem 0.25rem 0.25rem;
+
+          margin-left: 0;
+
+          &:hover {
+            color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
+          }
+        }
+      }
+
+      .badges {
+        padding-bottom: 0.5rem;
+
+        span {
+          display: inline-block;
+          color: #000;
+          height: 100%;
+          padding-right: 0.5rem;
+          vertical-align: middle;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      .bib-hidden {
+        font-size: 0.875rem;
+        max-height: 0px;
+        overflow: hidden;
+        text-align: justify;
+        transition-property: 0.15s ease;
+        -moz-transition: 0.15s ease;
+        -ms-transition: 0.15s ease;
+
+        @media (max-width: 599px) {
+          .preview img {
+            width: 100px;
+            height: auto;
+          }
+        }
+      }
+
+
+      p {
+        line-height: 1.4em;
+        margin: 10px;
+      }
+
+      pre {
+        font-size: 1em;
+        line-height: 1.4em;
+        padding: 10px;
+      }
     }
-  
+
+    .bib-hidden.open {
+      max-height: 100em;
+      transition-property: 0.15s ease;
+      -moz-transition: 0.15s ease;
+      -ms-transition: 0.15s ease;
+      -o-transition: 0.15s ease;
+      transition: all 0.15s ease;
+    }
+
+    div.abstract.bib-hidden {
+      border: dashed 1px var(--global-bg-color);
+    }
+
+    div.abstract.bib-hidden.open {
+      border-color: var(--global-text-color);
+    }
+  }
+
+  &.selected {
+    h2 {
+      display: none;
+    }
+  }
+}

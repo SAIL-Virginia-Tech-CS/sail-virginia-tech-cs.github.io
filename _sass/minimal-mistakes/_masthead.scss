@@ -12,7 +12,6 @@
   z-index: 20;
 
   &__inner-wrap {
-    @include clearfix;
     margin-left: auto;
     margin-right: auto;
     padding: 1em;
@@ -24,6 +23,7 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $header-font-family;
+    @include clearfix;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
