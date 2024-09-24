@@ -20,7 +20,7 @@ scholar_userid: jFXHPvoAAAAJ
     <div class='rho-profile-header-text'>
     <h2>About Me</h2>
 
-    <p>I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the <a href='/sail'>SAIL (Society + AI & Language) Lab</a>. My research lies at the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science (CSS) by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines.</p>
+    <p>I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the <a href='/sail'>SAIL (Society + AI & Language) Lab</a>. My research lies at the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science (CSS) by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines. asldkf</p>
     
     </div>
 </div>
