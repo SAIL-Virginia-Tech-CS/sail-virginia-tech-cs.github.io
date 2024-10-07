@@ -42,7 +42,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Professional Appointments and Affiliations
 
-- Assistant Professor, Computer Science Department, Virginia Tech  
+- Assistant Professor, Department of Computer Science, Virginia Tech  
 - Core Faculty, Sanghani Center for Artificial Intelligence, Virginia Tech
 - Affiliate Faculty, Center for Autism Research, Virginia Tech
 - Affiliate Faculty, Center for Human-Computer Interaction, Virginia Tech
