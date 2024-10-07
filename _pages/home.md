@@ -7,7 +7,7 @@ classes: wide home
 
 # Social media and other links
 email: eugenia@vt.edu
-cv: /assets/pdf/Rho_CV_Oct2024_public.pdf
+cv: /assets/pdf/Rho_CV_public.pdf
 scholar_userid: jFXHPvoAAAAJ
 ---
 
@@ -33,7 +33,7 @@ scholar_userid: jFXHPvoAAAAJ
  <p style="margin-bottom: 20px;">Before joining Virginia Tech, I was a postdoctoral researcher in the <a href="https://nlp.stanford.edu/people/" target="_blank">Stanford NLP Group</a> at <a href="https://www.cs.stanford.edu/about" target="_blank">Stanford Computer Science</a>, working with <a href="https://web.stanford.edu/~jurafsky/" target="_blank">Dan Jurafsky</a>. I hold a PhD from the School of Information & Computer Science at the University of California, Irvine, and a bachelor’s in Political Science from <a href="https://www.college.columbia.edu/" target="_blank">Columbia University</a>. My industry background includes experiences in tech and management consulting, having worked at companies like Meta and PricewaterhouseCoopers.</p>
  
  
- <p style="margin-bottom: 20px;">Feel free to check out my <a href="/assets/pdf/Rho_CV_Oct2024_public.pdf" target="_blank">CV</a>. Feel free to reach out at eugenia [at] vt [dot] edu if you’d like to collaborate or chat about ideas related to language, data, and technology. </p>  
+ <p style="margin-bottom: 20px;">Feel free to check out my <a href="/assets/pdf/Rho_CV_public.pdf" target="_blank">CV</a>. Feel free to reach out at eugenia [at] vt [dot] edu if you’d like to collaborate or chat about ideas related to language, data, and technology. </p>  
  
  
  
