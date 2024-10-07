@@ -35,17 +35,20 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Education
 
-- Ph.D., Informatics, University of California, Irvine
-- B.A., Political Science, Columbia University (Columbia College), New York, NY
+- Postdoc, Deparment of Computer Science, Stanford University, Palo Alto, CA, USA
+- Ph.D., University of California, Irvine, CA, USA
+- B.A., Columbia University, New York, NY, USA
 
 
-## Professional Appointments
+## Professional Appointments and Affiliations
 
 - Assistant Professor, Computer Science Department, Virginia Tech  
-- Postdoc, NLP Group, Computer Science Department, Stanford University  
-- PhD Intern, Meta, Menlo Park, California
-- Associate Consultant, PricewaterhouseCoopers, Seoul, South Korea
-- Analyst, Opera Solutions, New York, New York
+- Core Faculty, Sanghani Center for Artificial Intelligence, Virginia Tech
+- Affiliate Faculty, Center for Autism Research, Virginia Tech
+- Affiliate Faculty, Center for Human-Computer Interaction, Virginia Tech
+- Research Affiliate, SPARQ, Stanford University
+
+
 
 ## Grants, Awards, and Fellowships  
 
