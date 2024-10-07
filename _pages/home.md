@@ -20,7 +20,15 @@ scholar_userid: jFXHPvoAAAAJ
     <div class='rho-profile-header-text'>
     <h2>About Me</h2>
 
-    <p>I'm an Assistant Professor of Computer Science at Virginia Tech, where I lead the <a href='/sail'>SAIL (Society + AI & Language) Lab</a>. My research lies at the intersection of Natural Language Processing and Human-Computer Interaction (HCI). My work aims to advance Computational Social Science by using computational linguistics to better understand how AI-mediated systems impact interactions across people and machines. </p>
+  <p style="margin-bottom: 20px;">I'm a Computer Science professor who studies communication breakdowns, focusing on how people talk to each other. My research integrates Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Statistics to study language as a unit of analysis to (1) understand the real-world impact of our words, (2) identify factors that shape our conversation patterns, and (3) explore the role of AI language technologies in enhancing how we communicate and interact with others.</p>
+
+<p style="margin-bottom: 20px;">At Virginia Tech, I lead the <a href="https://eugeniarho.com/sail/" target="_blank">Society + AI & Language (SAIL) research lab</a>, where my team of MS and PhD students and I develop NLP pipelines using large language models (LLMs) to predict conversational trajectories and outcomes across multiple downstream tasks. I use statistical methods like Granger causality and structural equation modeling to quantify how communication patterns influence real-world outcomes. Drawing on HCI principles and design thinking, I build human-centered AI language technologies to help people better understand, anticipate, and prevent communication breakdowns. My interdisciplinary collaborations with experts ensure these technologies are relevant, effective, and ethically sound.</p>
+
+<p style="margin-bottom: 20px;">Before joining Virginia Tech, I was a postdoctoral researcher in the <a href="https://nlp.stanford.edu/people/" target="_blank">Stanford NLP Group</a> at <a href="https://www.cs.stanford.edu/about" target="_blank">Stanford University</a>, working with <a href="https://web.stanford.edu/~jurafsky/" target="_blank">Dan Jurafsky</a>. I hold a PhD from the School of Information & Computer Science at the University of California, Irvine, and a bachelor’s in Political Science from <a href="https://www.college.columbia.edu/" target="_blank">Columbia University</a>. My industry background includes experiences in tech and management consulting, having worked at companies like Meta and PricewaterhouseCoopers.</p>
+
+
+
+   
     
     </div>
 </div>
