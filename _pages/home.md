@@ -58,7 +58,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 <p style="margin-bottom: 20px;line-height: 1.5;">
     Feel free to check out my <a href="/assets/pdf/Rho_CV_public.pdf" target="_blank" style="text-decoration: none;">CV</a>. 
-    I can be reached at eugenia [at] vt [dot] edu if you’d like to collaborate or chat about ideas related to language, data, and technology.
+    I can be reached at eugenia[at]vt[dot] edu if you’d like to collaborate or chat about ideas related to language, data, and technology.
 </p>
 
  
