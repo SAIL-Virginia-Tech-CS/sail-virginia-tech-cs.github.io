@@ -46,12 +46,6 @@ scholar_userid: jFXHPvoAAAAJ
     of how we communicate across diverse contexts. Leveraging these insights, I use HCI principles and design thinking to build human-centered AI language technologies<sup><a href="https://eugeniarho.com/publications/" style="text-decoration: none;">7</a>,<a href="https://eugeniarho.com/publications/" style="text-decoration: none;">11</a></sup> that aim to help people understand<sup><a href="https://eugeniarho.com/publications/" style="text-decoration: none;">8</a>,<a href="https://eugeniarho.com/publications/" style="text-decoration: none;">9</a></sup>, anticipate<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://arxiv.org/abs/2403.14117" style="text-decoration: none;">3</a>,<a href="https://eugeniarho.com/publications/" style="text-decoration: none;">11</a></sup>, and prevent<sup><a href="https://arxiv.org/abs/2403.17116" style="text-decoration: none;">10</a>,<a href="https://eugeniarho.com/publications/" style="text-decoration: none;">11</a></sup> communication breakdowns. Collaborating with experts in psychology, public health, law enforcement, and medical practitioners working with autistic clients, I aim to build helpful language technologies that are also ethical and context-sensitive.
 </p>
 
-<p style="margin-bottom: 20px;line-height: 1.55;">
-    My research integrates Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Statistics 
-    to study language as a unit of analysis to (1) understand the real-world impact of our words, 
-    (2) identify factors that shape our conversation patterns, and 
-    (3) explore the role of AI language technologies in enhancing how we communicate and interact with others.
-</p>
 
 
 <p style="margin-bottom: 20px;line-height: 1.55;">
