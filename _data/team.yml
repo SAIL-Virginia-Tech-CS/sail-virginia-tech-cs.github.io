@@ -6,7 +6,7 @@
 
 - name: "Xiaohan Ding"
   title: "PhD"
-  url: "http://xiaohan-site.com/"
+  url: "https://xiaohanding.com/"
   image: "assets/images/team/Ding_c-150x150.png"
   current: true
 
@@ -24,7 +24,7 @@
 
 - name: "Lance Wilhelm"
   title: "PhD"
-  url: "https://lancewilhelm.github.io"
+  url: "https://lancewilhelm.com/"
   image: "assets/images/team/Lance_c.png"
   current: true
 
@@ -32,6 +32,12 @@
   title: "PhD"
   url: 
   image: "assets/images/team/Taufiq_c.png"
+  current: true
+
+- name: "Kirk Knutsen"
+  title: "PhD"
+  url: "https://kirkknutsen.com/" 
+  image: "assets/images/team/headshotKirkKnutsen.jpg"
   current: true
 
 - name: "<i class='fas fa-graduation-cap'></i> Anisha Kumar"

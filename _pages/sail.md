@@ -5,14 +5,23 @@
 layout: home
 permalink: /sail/
 author_profile: false
-title: "Welcome to Society + AI Language Lab"
-excerpt: "At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines."
-
-header:
-  overlay_filter: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0.25))
-  overlay_image: /assets/images/torg.jpeg
+title: 'Welcome to Society + AI Language Lab'
+excerpt: 'At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines.'
+classes: sail
+# header:
+#   overlay_filter: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0.25))
+#   overlay_image: /assets/images/torg.jpeg
 ---
 
+<div class='page-header'>
+    <div class='header-image'>
+        <img src='/assets/images/sail_logo.svg' alt='SAIL Lab Logo' class='sail-logo'/>
+    </div>
+    <div class='header-content'>
+        <h1 class='page__title'>Welcome to the Society + AI & Language (SAIL) Lab</h1>
+        <p class='page__lead'>At SAIL, we strive to advance Computational Social Science (CSS) by using <strong>AI</strong> and <strong>computational linguistics</strong> to better understand how AI-mediated systems impact interactions across people and machines.</p>
+    </div>
+</div>
 The Society + AI & Language (SAIL) Lab at Virginia Tech is led by [Dr. Eugenia H. Rho](https://eugeniarho.com/).
 
 At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines.

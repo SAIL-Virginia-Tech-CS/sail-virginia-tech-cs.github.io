@@ -5,11 +5,11 @@ main:
     # url: /news/
   - title: "Publications"
     url: /publications/
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
   - title: "SAIL"
     url: /sail/
   - title: "Teaching"
     url: /teaching/
-  - title: "Resources"
-    url: /resources/
+  # - title: "Resources"
+  #   url: /resources/
