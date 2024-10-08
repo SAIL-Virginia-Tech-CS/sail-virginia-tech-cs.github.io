@@ -116,13 +116,6 @@ scholar_userid: jFXHPvoAAAAJ
   
   
   
-  
-
-   
-    
-    </div>
-</div>
-
 ## Education
 
 <ul style="list-style-type: disc; padding-left: 40px;">
