@@ -13,7 +13,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 <div class='rho-profile-header'>
     <div class='rho-profile-img'>
-        <img src='/assets/images/team/headshot_oct2024.jpg' alt='Eugenia Rho Professional Headshot'/>
+        <img src='/assets/images/team/headshot_oct2024_crop.jpg' alt='Eugenia Rho Professional Headshot'/>
         <p>Gilbert Place, 220 Gilbert Street, Blacksburg, VA, 24060</p>
         {% include social.html %}
     </div>
