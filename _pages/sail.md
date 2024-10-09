@@ -20,7 +20,6 @@ classes: sail
     <div class='header-content'>
         <h1 class='page__title'>Welcome to SAIL!</h1>
         <p class='page__lead'>At SAIL, we integrate <strong>Natural Language Processing</strong> (NLP), <strong>Human-Computer Interaction</strong> (HCI), and <strong>Statistics</strong> to examine language as a lens for analyzing human interactions. Our mission is to address complex communication challenges by examining how language shapes social outcomes and designing AI technologies that promote meaningful, inclusive communication. Our research involves analyzing diverse, large-scale datasets, including <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>decades of closed-caption data</a> from major news outlets, <a href='https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120' target='_blank'>police body-camera footage</a>, <a href='https://arxiv.org/pdf/2403.16514' target='_blank'>online community interactions</a>, and dialogues between neurodivergent and neurotypical individuals. </p>
-        <h1 class='page__title'>Welcome to SAIL!</h1>
     </div>
 </div>
 
