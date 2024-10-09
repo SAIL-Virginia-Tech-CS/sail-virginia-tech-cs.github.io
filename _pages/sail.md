@@ -16,8 +16,11 @@ classes: sail
     <div class='header-image'>
         <img src='/assets/images/sail_logo.svg' alt='SAIL Lab Logo' class='sail-logo'/>
         <img src='/assets/images/sail-text-image.png' alt='SAIL Lab Text Logo' class='sail-text-image'/>
+        <img src='/assets/images/sail-text-image.png' alt='SAIL Lab Text Logo' class='sail-text-image'/>
     </div>
     <div class='header-content'>
+        <h1 class='page__title'>Welcome to SAIL!</h1>
+        <p class='page__lead'>At SAIL, we integrate <strong>Natural Language Processing</strong> (NLP), <strong>Human-Computer Interaction</strong> (HCI), and <strong>Statistics</strong> to examine language as a lens for analyzing human interactions. Our mission is to address complex communication challenges by examining how language shapes social outcomes and designing AI technologies that promote meaningful, inclusive communication. Our research involves analyzing diverse, large-scale datasets, including <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>decades of closed-caption data</a> from major news outlets, <a href='https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120' target='_blank'>police body-camera footage</a>, <a href='https://arxiv.org/pdf/2403.16514' target='_blank'>online community interactions</a>, and dialogues between neurodivergent and neurotypical individuals. </p>
         <h1 class='page__title'>Welcome to SAIL!</h1>
         <p class='page__lead'>At SAIL, we integrate <strong>Natural Language Processing</strong> (NLP), <strong>Human-Computer Interaction</strong> (HCI), and <strong>Statistics</strong> to examine language as a lens for analyzing human interactions. Our mission is to address complex communication challenges by examining how language shapes social outcomes and designing AI technologies that promote meaningful, inclusive communication. Our research involves analyzing diverse, large-scale datasets, including <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>decades of closed-caption data</a> from major news outlets, <a href='https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120' target='_blank'>police body-camera footage</a>, <a href='https://arxiv.org/pdf/2403.16514' target='_blank'>online community interactions</a>, and dialogues between neurodivergent and neurotypical individuals. </p>
     </div>
@@ -28,7 +31,7 @@ classes: sail
 
 <ol>
     <li style='font-weight: bold; color: #2f4ea7;'>Uncovering Language Patterns</li>
-    <p>By developing and applying NLP techniques, we analyze conversational trajectories and outcomes at scale to identify linguistic patterns linked to communication breakdowns. Our research spans contexts such as escalated police-citizen encounters, polarized media discourse, interactions between neurodivergent and neurotypical individuals, and responses from “bad actors” to online counterspeech.</p>
+    <p>By developing and applying NLP techniques, we analyze conversational trajectories and outcomes at scale to identify linguistic patterns linked to communication breakdowns. Our research spans contexts such as escalated police-citizen encounters, polarized media discourse, interactions between neurodivergent and neurotypical individuals, and responses from <a href='https://arxiv.org/pdf/2410.03032v1' target='_blank'>“bad actors” to online counterspeech</a>.</p>
 
     <li style='font-weight: bold;color: #2f4ea7;'>Understanding the Real-World Impact of Language</li>
     <p>To capture the real-world impact of language on society, we use statistical methods—including, Granger causality, and Structural Equation Modeling—to examine how communication patterns influence or predict outcomes such as <a href='https://arxiv.org/pdf/2403.00994' target='_blank'>public health trends</a>, traffic stop results, and <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>linguistic spillover effects</a> from TV news broadcasts to social media discourse.</p>
@@ -49,6 +52,10 @@ We welcome researchers, students, and collaborators who are interested in joinin
 ## Recent News!
 
 {% include news %}
+
+## Join Us!
+
+We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
 
 ## Join Us!
 
