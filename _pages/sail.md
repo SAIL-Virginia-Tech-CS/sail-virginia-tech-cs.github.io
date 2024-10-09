@@ -12,25 +12,35 @@ classes: sail
 #   overlay_filter: linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0.25))
 #   overlay_image: /assets/images/torg.jpeg
 ---
-
 <div class='page-header'>
     <div class='header-image'>
         <img src='/assets/images/sail_logo.svg' alt='SAIL Lab Logo' class='sail-logo'/>
+        <img src='/assets/images/sail-text-image.png' alt='SAIL Lab Text Logo' class='sail-text-image'/>
     </div>
     <div class='header-content'>
-        <h1 class='page__title'>Welcome to the Society + AI & Language (SAIL) Lab</h1>
-        <p class='page__lead'>At SAIL, we strive to advance Computational Social Science (CSS) by using <strong>AI</strong> and <strong>computational linguistics</strong> to better understand how AI-mediated systems impact interactions across people and machines.</p>
+        <h1 class='page__title'>Welcome to SAIL!</h1>
+        <p class='page__lead'>At SAIL, we integrate <strong>Natural Language Processing</strong> (NLP), <strong>Human-Computer Interaction</strong> (HCI), and <strong>Statistics</strong> to examine language as a lens for analyzing human interactions. Our mission is to address complex communication challenges by examining how language shapes social outcomes and designing AI technologies that promote meaningful, inclusive communication. Our research involves analyzing diverse, large-scale datasets, including <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>decades of closed-caption data</a> from major news outlets, <a href='https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120' target='_blank'>police body-camera footage</a>, <a href='https://arxiv.org/pdf/2403.16514' target='_blank'>online community interactions</a>, and dialogues between neurodivergent and neurotypical individuals. </p>
     </div>
 </div>
-The Society + AI & Language (SAIL) Lab at Virginia Tech is led by [Dr. Eugenia H. Rho](https://eugeniarho.com/).
 
-At SAIL, we strive to advance Computational Social Science (CSS) by using **AI** and **computational linguistics** to better understand how AI-mediated systems impact interactions across people and machines.
+<!-- Updated Core Research Areas Section -->
+<p style='font-size: 25px; font-weight: bold; color: #2f4ea7;;'>Research Areas:</p> 
 
-Our mission at SAIL is to design more inclusive and effective AI systems that positively impact society. To achieve this we leverage our expertise in Natural Language Processing (NLP) and Human-Computer Interaction (HCI) to bridge the gap between the technical and social aspects of computer science. We use computational linguistics and experimental design to analyze large-scale data and develop insights into the complex interactions across people and machines, with a particular focus on understanding the social implications of these systems.
+<ol>
+    <li style='font-weight: bold; color: #2f4ea7;'>Uncovering Language Patterns</li>
+    <p>By developing and applying NLP techniques, we analyze conversational trajectories and outcomes at scale to identify linguistic patterns linked to communication breakdowns. Our research spans contexts such as escalated police-citizen encounters, polarized media discourse, interactions between neurodivergent and neurotypical individuals, and responses from <a href='https://arxiv.org/pdf/2410.03032v1' target='_blank'>“bad actors” to online counterspeech</a>.</p>
 
-## To Prospective Students
+    <li style='font-weight: bold;color: #2f4ea7;'>Understanding the Real-World Impact of Language</li>
+    <p>To capture the real-world impact of language on society, we use statistical methods—including, Granger causality, and Structural Equation Modeling—to examine how communication patterns influence or predict outcomes such as <a href='https://arxiv.org/pdf/2403.00994' target='_blank'>public health trends</a>, traffic stop results, and <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>linguistic spillover effects</a> from TV news broadcasts to social media discourse.</p>
 
-SAIL Lab is always looking for PhD students and exceptional master and undergraduate students. Please apply to [CS@VT](https://cs.vt.edu/). If you are in Virginia Tech already and would like to work with us, please reach out to [eugenia@vt.edu](https://sail.cs.vt.edu/eugenia@vt.edu).
+    <li style='font-weight: bold;color: #2f4ea7;'>Designing Human-Centered AI Language Technologies</li>
+    <p>Guided by HCI principles and design thinking, we create <a href='https://eugeniarho.com/publications/' target='_blank'>language technologies</a> that help users understand, anticipate, and prevent communication breakdowns. Collaborating with multidisciplinary teams—including experts in psychology, public health, law enforcement, and neurodiversity advocacy—we address the limitations of current AI language technologies and ensure that our tools are context-sensitive and responsive to user needs.</p>
+</ol>
+
+
+<p style='font-size: 25px; font-weight: bold;'>Join Us!</p>
+
+We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
 
 ## Members
 
@@ -39,3 +49,7 @@ SAIL Lab is always looking for PhD students and exceptional master and undergrad
 ## Recent News!
 
 {% include news %}
+
+## Join Us!
+
+We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
