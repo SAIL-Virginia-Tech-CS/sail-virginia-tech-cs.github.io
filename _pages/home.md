@@ -21,7 +21,7 @@ scholar_userid: jFXHPvoAAAAJ
     <h2>About Me</h2>
 
 <p style="margin-bottom: 20px; line-height: 1.55;">
-    I'm a Computer Science professor who studies communication breakdowns, focusing on how people talk to each other and how technology can enhance or disrupt the way we communicate.
+    I'm a Computer Science (CS) professor who studies communication breakdowns, focusing on how people talk to each other and how technology can enhance or disrupt the way we communicate.
 </p>
 
 <p style="margin-bottom: 20px;line-height: 1.55;">
