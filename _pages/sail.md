@@ -43,25 +43,6 @@ classes: sail
 
 We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
 
-<!-- Updated Core Research Areas Section -->
-<p style='font-size: 25px; font-weight: bold; color: #2f4ea7;;'>Research Areas:</p> 
-
-<ol>
-    <li style='font-weight: bold; color: #2f4ea7;'>Uncovering Language Patterns</li>
-    <p>By developing and applying NLP techniques, we analyze conversational trajectories and outcomes at scale to identify linguistic patterns linked to communication breakdowns. Our research spans contexts such as escalated police-citizen encounters, polarized media discourse, interactions between neurodivergent and neurotypical individuals, and responses from <a href='https://arxiv.org/pdf/2410.03032v1' target='_blank'>“bad actors” to online counterspeech</a>.</p>
-
-    <li style='font-weight: bold;color: #2f4ea7;'>Understanding the Real-World Impact of Language</li>
-    <p>To capture the real-world impact of language on society, we use statistical methods—including, Granger causality, and Structural Equation Modeling—to examine how communication patterns influence or predict outcomes such as <a href='https://arxiv.org/pdf/2403.00994' target='_blank'>public health trends</a>, traffic stop results, and <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>linguistic spillover effects</a> from TV news broadcasts to social media discourse.</p>
-
-    <li style='font-weight: bold;color: #2f4ea7;'>Designing Human-Centered AI Language Technologies</li>
-    <p>Guided by HCI principles and design thinking, we create <a href='https://eugeniarho.com/publications/' target='_blank'>language technologies</a> that help users understand, anticipate, and prevent communication breakdowns. Collaborating with multidisciplinary teams—including experts in psychology, public health, law enforcement, and neurodiversity advocacy—we address the limitations of current AI language technologies and ensure that our tools are context-sensitive and responsive to user needs.</p>
-</ol>
-
-
-<p style='font-size: 25px; font-weight: bold;'>Join Us!</p>
-
-We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
-
 ## Members
 
 {% include team %}
