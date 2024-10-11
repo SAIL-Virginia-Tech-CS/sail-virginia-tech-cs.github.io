@@ -49,7 +49,3 @@ We welcome researchers, students, and collaborators who are interested in joinin
 ## Recent News!
 
 {% include news %}
-
-## Join Us!
-
-We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
