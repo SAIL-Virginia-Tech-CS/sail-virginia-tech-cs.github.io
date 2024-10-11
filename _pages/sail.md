@@ -52,6 +52,6 @@ classes: sail
 </p>
 
 
-## Recent News!
+<!-- ## Recent News! -->
 
-{% include news %}
+<!-- {% include news %} -->
