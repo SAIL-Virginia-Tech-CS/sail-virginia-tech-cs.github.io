@@ -38,13 +38,19 @@ classes: sail
 </ol>
 
 
-<p style='font-size: 25px; font-weight: bold;'>Join Us!</p>
-
-We welcome researchers, students, and collaborators who are interested in joining or collaborating with the SAIL Lab. Please reach out at eugenia [at] vt [dot] edu.
-
 ## Members
 
 {% include team %}
+
+<p style='font-size: 25px; font-weight: bold; margin-bottom: 0;'>Join Us!</p>
+
+<p style="font-size: 18px; margin-top: 5px;">
+    We welcome researchers, students, and collaborators who are interested in joining or collaborating with the 
+    <img src='/assets/images/sail_logo.svg' alt='SAIL Lab Logo' class='sail-logo' style='width: 30px; height: 30px; vertical-align: middle;'/> Lab.
+    <br/>
+    Please reach out at eugenia [at] vt [dot] edu.
+</p>
+
 
 ## Recent News!
 
