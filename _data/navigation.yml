@@ -12,6 +12,8 @@ main:
   - title: "SAIL"
     url: /sail/
   - title: "Teaching"
-    url: /teaching/
+    url: /#teaching
+  # - title: "Teaching"
+  #   url: /teaching/
   # - title: "Resources"
   #   url: /resources/
