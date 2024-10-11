@@ -1,10 +1,12 @@
 main:
   - title: "Press"
-    url: /press/
+    url: /#selected-press
+    # url: /press/
   # - title: "News"
     # url: /news/
   - title: "Publications"
-    url: /publications/
+    url: /#publications
+  #   url: /publications/
   # - title: "Research"
   #   url: /research/
   - title: "SAIL"
