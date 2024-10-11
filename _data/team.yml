@@ -1,67 +1,69 @@
 - name: "Dr. Eugenia Rho"
   title: "Director"
   url: "https://eugeniarho.com/"
-  image: "assets/images/team/Rho_c-150x150.png"
+  image: "assets/images/team/headshot_oct2024_updated.jpg"
   current: true
 
 - name: "Xiaohan Ding"
-  title: "PhD"
+  title: "PhD Student"
   url: "https://xiaohanding.com/"
   image: "assets/images/team/Ding_c-150x150.png"
   current: true
 
 - name: "Kaike Ping"
-  title: "PhD"
+  title: "PhD Student"
   url: "https://people.cs.vt.edu/pkk"
   image: "assets/images/team/Ping_c-150x150.png"
   current: true
 
 - name: "Buse Carik"
-  title: "PhD"
+  title: "PhD Student"
   url: "https://busecarik.github.io/"
   image: "assets/images/team/Buse_c-150x150.png"
   current: true
 
 - name: "Lance Wilhelm"
-  title: "PhD"
+  title: "PhD Student"
   url: "https://lancewilhelm.com/"
   image: "assets/images/team/Lance_c.png"
   current: true
 
 - name: "Taufiq Daryanto"
-  title: "PhD"
+  title: "PhD Student"
   url: 
   image: "assets/images/team/Taufiq_c.png"
   current: true
 
 - name: "Kirk Knutsen"
-  title: "PhD"
+  title: "PhD Student"
   url: "https://kirkknutsen.com/" 
   image: "assets/images/team/headshotKirkKnutsen.jpg"
   current: true
 
 - name: "<i class='fas fa-graduation-cap'></i> Anisha Kumar"
-  title: "MS"
+  title: "MS Student"
   url: "https://www.linkedin.com/in/anishakumar96/"
   image: "assets/images/team/Anisha_c-150x150.png"
   current: false
+  job: "Booz Allen Hamilton"
+
 
 - name: "Sophia Stil"
-  title: "MS"
+  title: "MS Student"
   url: "http://www.linkedin.com/in/sophia-stil-183122248"
   image: "assets/images/team/Sophia_c.jpeg"
   current: true
 
 - name: "<i class='fas fa-graduation-cap'></i> Uma Gunturi"
-  title: "MS"
+  title: "MS Student"
   url:
   image: "assets/images/team/Uma_c.png"
   current: false
   job: "Machine Learning Engineer, IBM"
   
 - name: "<i class='fas fa-graduation-cap'></i> Rohan Leeha"
-  title: "MS"
+  title: "MS Student"
   url:
   image: "assets/images/team/Rohan_c.png"
   current: false
-  job: "Associate Staff (NLP researcher), MIT Lincoln Laboratory (FFRDC)"
+  job: "Researcher, MIT Lincoln Laboratory"
