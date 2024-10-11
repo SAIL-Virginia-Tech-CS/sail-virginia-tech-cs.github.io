@@ -3,7 +3,7 @@ permalink: /teaching/
 author_profile: false
 classes: wide teaching
 layout: single
-title: "Teaching"
+title: "Courses Taught"
 
 feature_row:
   - title: "CS5914: Human-AI Interaction Powered by LLMs"
