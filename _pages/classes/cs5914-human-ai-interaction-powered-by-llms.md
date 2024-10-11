@@ -3,10 +3,10 @@ permalink: /teaching/cs5914-human-ai-interaction-powered-by-llms/
 author_profile: false
 classes: wide course
 layout: single
-title: 'CS5914 (Fall 2023): Human-AI Interaction Powered by LLMs'
+title: 'CS 5914 Human-AI Interaction Powered by LLMs'
 ---
 
-## Course Description
+### Course Description
 
 This course will introduce students to ways of thinking about how recent developments in AI systems powered by large language models (LLMs) shape everyday life and how to design such systems in a manner that can respect human values.
 
@@ -23,7 +23,7 @@ This course will introduce students to ways of thinking about how recent develop
 
 These topics will be explored in the context of real-world applications (e.g., For Some Autistic People, ChatGPT Is a LifelineLinks to an external site.), through which students will learn how to think both optimistically and critically of what LLM-powered AI systems can do, and how they can and should be integrated into society.
 
-## Prequisites
+### Prequisites
 
 At the minimum, students should have an intermediate proficiency in python programming. A basic knowledge of deep / machine learning, statistics, and prior coursework in Human-Computer Interaction (HCI) are a plus, but not required. This course will include in-class LLM tutorial sessions designed to help you with your course project.
 
