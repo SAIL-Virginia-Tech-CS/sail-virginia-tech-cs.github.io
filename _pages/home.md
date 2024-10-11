@@ -78,7 +78,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Education
 
-<ul style="list-style-type: disc; padding-left: 40px;">
+<ul style="list-style-type: disc; padding-left: 40px; margin-bottom: 25px;">
     <li style="margin-bottom: 15px;">Postdoc, Department of Computer Science, Stanford University, Palo Alto, CA, USA</li>
     <li style="margin-bottom: 15px;">PhD, University of California, Irvine, CA, USA</li>
     <li style="margin-bottom: 15px;">BA, Columbia University, New York, NY, USA</li>
@@ -86,7 +86,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Professional Appointments and Affiliations
 
-<ul style="list-style-type: disc; padding-left: 40px;">
+<ul style="list-style-type: disc; padding-left: 40px; margin-bottom: 50px;">
     <li style="margin-bottom: 15px;">Assistant Professor, Department of Computer Science, Virginia Tech</li>
     <li style="margin-bottom: 15px;">Core Faculty, Sanghani Center for Artificial Intelligence, Virginia Tech</li>
     <li style="margin-bottom: 15px;">Affiliate Faculty, Center for Autism Research, Virginia Tech</li>
@@ -96,7 +96,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Selected Grants, Awards, and Fellowships
 
-<ul style="list-style-type: none; padding-left: 0;">
+<ul style="list-style-type: none; padding-left: 0; margin-bottom: 50px;">
     <li style="margin-bottom: 15px;">
         <strong>Designing Large Language Models as a Mental Health Resource for Autistic Adults</strong> <br>
         Role: PI; $45,000, World Health Consortium, 2024
@@ -133,7 +133,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Selected Talks
 
-<ul style="list-style-type: none; padding-left: 0;">
+<ul style="list-style-type: none; padding-left: 0; margin-bottom: 50px;">
     <li style="margin-bottom: 15px;">
         <strong><a href="/assets/pdf/VTLxSpeakerSeries.pdf" style="text-decoration: none;">Words Matter: How Language Choices Predict Societal Trends and Outcomes in Media, Health, and Policing</a></strong><br>
         VTLx Speaker Series, February 2024
@@ -156,13 +156,16 @@ scholar_userid: jFXHPvoAAAAJ
     </li>
 </ul>
 
+
+
+
 ## Publications
 
 
 <!-- <p><em>* denotes co-first authorship;</em> † Indicates first authorship by PhD/MS student advised by me as the principal investigator.</p> -->
 
 
-<table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none;">
+<table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;">
   <!-- Publication 2025f -->
   <tr style="border: none;">
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025f]</td>
@@ -569,7 +572,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 ## Selected Press
 
-<ul style="list-style-type: none; padding-left: 0; font-size: 20px;">
+<ul style="list-style-type: none; padding-left: 0; font-size: 20px; margin-bottom: 50px;">
     <li style="margin-bottom: 15px;">
         <a href="https://www.scientificamerican.com/article/ai-tool-predicts-whether-online-health-misinformation-will-cause-real-world/" target="_blank" style="text-decoration: none;">AI Tool Predicts Whether Online Health Misinformation Will Cause Real-World Harm</a>, <span style="font-style: italic; color: #2a9d8f;">Scientific American</span>
     </li>
