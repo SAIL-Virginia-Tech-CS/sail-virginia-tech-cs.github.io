@@ -563,3 +563,52 @@ scholar_userid: jFXHPvoAAAAJ
 
 </table>
 
+
+## Selected Press
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 20px;">
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.scientificamerican.com/article/ai-tool-predicts-whether-online-health-misinformation-will-cause-real-world/" target="_blank" style="text-decoration: none;">AI Tool Predicts Whether Online Health Misinformation Will Cause Real-World Harm</a>, <span style="font-style: italic; color: #2a9d8f;">Scientific American</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://news.vt.edu/articles/2024/05/eng-cs-tracing-infectious-pandemic-language.html" target="_blank" style="text-decoration: none;">Study Traces an Infectious Language Epidemic</a>, <span style="font-style: italic; color: #2a9d8f;">VT News</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://news.vt.edu/articles/2024/03/whole-health-seed-grant-winners.html" target="_blank" style="text-decoration: none;">Seed Grants Fuel Multidisciplinary, Community-Engaged Mental Health Research</a>, <span style="font-style: italic; color: #2a9d8f;">VT News</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.forbes.com/sites/brycehoffman/2024/02/14/be-careful-what-you-feed-your-head/?sh=1e83204b67cc" target="_blank" style="text-decoration: none;">Be Careful What You Feed Your Head</a>, <span style="font-style: italic; color: #2a9d8f;">Forbes</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://eng.vt.edu/magazine/stories/fall-2023/ai.html" target="_blank" style="text-decoration: none;">AI—the Good, the Bad, and the Scary</a>, <span style="font-style: italic; color: #2a9d8f;">VT Magazine</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://news.vt.edu/articles/2023/08/eng-cs-two-networks--two-realities--one-big-problem.html" target="_blank" style="text-decoration: none;">Two Networks, Two Realities, One Big Problem</a>, <span style="font-style: italic; color: #2a9d8f;">VT News</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.wabe.org/new-study-sheds-light-on-how-an-officers-first-communication-with-black-drivers-can-determine-the-outcome-of-a-traffic-stop/" target="_blank" style="text-decoration: none;">New Study: Officers' First Communication with Black Drivers Can Determine Traffic Stop Outcome</a>, <span style="font-style: italic; color: #2a9d8f;">NPR Atlanta</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.youtube.com/watch?v=fw-5fIT2yAI&t=3s" target="_blank" style="text-decoration: none;">Study: Officers’ First 45 Words in Traffic Stops of Black Drivers Crucial in Determining Outcome</a>, <span style="font-style: italic; color: #2a9d8f;">CNN</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.youtube.com/watch?v=fw-5fIT2yAI&t=3s" target="_blank" style="text-decoration: none;">CNN Tonight Panel Discussion on Driving While Black</a>, <span style="font-style: italic; color: #2a9d8f;">CNN</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://omny.fm/shows/kcbsam-on-demand/a-study-found-a-racial-bias-during-police-traffic" target="_blank" style="text-decoration: none;">A Study Found a Racial Bias During Police Traffic Stops and Police Orders</a>, <span style="font-style: italic; color: #2a9d8f;">KCBS Radio</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.youtube.com/watch?v=V8j0Uan6vcc&t=108s" target="_blank" style="text-decoration: none;">Study: Officer's First 45 Words in Traffic Stop Could Predict Outcome</a>, <span style="font-style: italic; color: #2a9d8f;">Scripps News</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.npr.org/2023/05/29/1178279383/for-black-drivers-a-police-officers-first-45-words-are-a-portent-of-whats-to-com" target="_blank" style="text-decoration: none;">For Black Drivers, a Police Officer’s First 45 Words Are a Sign of What’s to Come</a>, <span style="font-style: italic; color: #2a9d8f;">NPR</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://news.vt.edu/articles/2023/05/cm-trafficstopstudy.html" target="_blank" style="text-decoration: none;">Vehicle Stop Study Illuminates Importance of Officer’s First Words</a>, <span style="font-style: italic; color: #2a9d8f;">VT News</span>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <a href="https://www.rnz.co.nz/national/programmes/sunday/audio/2018727011/political-hashtags-make-people-less-likely-to-believe-the-news" target="_blank" style="text-decoration: none;">Political Hashtags Make People Less Likely to Believe the News</a>, <span style="font-style: italic; color: #2a9d8f;">Radio New Zealand</span>
+    </li>
+</ul>
+
+
