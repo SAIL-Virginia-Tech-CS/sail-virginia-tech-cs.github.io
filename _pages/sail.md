@@ -29,13 +29,23 @@ classes: sail
 
 <ol>
     <li style='font-weight: bold; color: ;'>Uncovering Language Patterns</li>
-    <p>By developing and applying NLP techniques, we analyze conversational trajectories and outcomes at scale to identify linguistic patterns linked to communication breakdowns. Our research spans contexts such as escalated police-citizen encounters, polarized media discourse, interactions between <a href='https://arxiv.org/abs/2410.06336' target='_blank'>neurodivergent and neurotypical individuals</a> , and responses from “bad actors” to online counterspeech.</p>
+    <p>By developing and applying NLP techniques, we analyze conversational trajectories and outcomes at scale to identify linguistic patterns linked to communication breakdowns. Our research spans contexts such as <a href='https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120' target='_blank'>escalated police-citizen encounters</a>, <a href='https://arxiv.org/abs/2301.08832' target='_blank'>polarized media discourse</a>, interactions between <a href='https://arxiv.org/abs/2410.06336' target='_blank'>neurodivergent and neurotypical individuals</a> , and responses from “bad actors” to online counterspeech.</p>
+
 
     <li style='font-weight: bold;color: ;'>Understanding the Real-World Impact of Language</li>
     <p>To capture the real-world impact of language on society, we use statistical methods—including, Granger causality, and Structural Equation Modeling—to examine how communication patterns influence or predict outcomes such as <a href='https://arxiv.org/pdf/2403.00994' target='_blank'>public health trends</a>, traffic stop results, and <a href='https://ojs.aaai.org/index.php/ICWSM/article/view/22135/21914' target='_blank'>linguistic spillover effects</a> from TV news broadcasts to social media discourse.</p>
 
     <li style='font-weight: bold;color: ;'>Designing Human-Centered AI Language Technologies</li>
-    <p>Guided by HCI principles and design thinking, we create <a href='https://arxiv.org/abs/2410.05570/' target='_blank'>language technologies</a> that help users understand, anticipate, and prevent communication breakdowns. Collaborating with multidisciplinary teams—including experts in psychology, public health, law enforcement, and neurodiversity advocacy—we address the limitations of current AI language technologies and ensure that our tools are context-sensitive and responsive to user needs.</p>
+    <p>Guided by HCI principles and design thinking, we create <a href='https://arxiv.org/abs/2410.05570/' target='_blank'>language technologies</a> that help users understand, anticipate, and prevent communication breakdowns. We work with experts in psychology, public health, law enforcement, and medical practitioners working with neurodivergent clients to address AI language limitations and ensure our tools are context-sensitive and user-focused.
+
+
+
+
+
+
+
+
+</p>
 </ol>
 
 
