@@ -166,21 +166,9 @@ scholar_userid: jFXHPvoAAAAJ
 
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;">
-  <!-- Publication 2025f -->
-  <tr style="border: none;">
-    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025f]</td>
-    <td style="vertical-align: top; padding-left: 0; border: none;">
-      <div style="margin-bottom: 5px;">
-        Linguistic Determinants of Effective Counterspeech: Strategies for Responding to Online Hate Speech
-      </div>
-      <div>
-        Buse Carik, Kaike Ping, Xiaohan Ding, and <strong>Eugenia H. Rho†</strong>.
-      </div>
-      <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>Proceedings of the National Academy of Sciences (PNAS)</em>, 2025 (Under Review).
-      </div>
-    </td>
-  </tr>
+ 
+  
+  
 
   <!-- Publication 2025e -->
   <tr style="border: none;">
