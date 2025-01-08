@@ -57,7 +57,7 @@ scholar_userid: jFXHPvoAAAAJ
 </p>
 
 <p style="margin-bottom: 20px;line-height: 1.55;">
-    Before joining Virginia Tech, I was a postdoctoral researcher in the <a href="https://nlp.stanford.edu/people/" target="_blank" style="text-decoration: none;">Stanford NLP Group</a> at <a href="https://www.cs.stanford.edu/about" target="_blank" style="text-decoration: none;">Stanford Computer Science</a>, working with <a href="https://web.stanford.edu/~jurafsky/" target="_blank" style="text-decoration: none;">Dan Jurafsky</a>. I hold a PhD from the School of Information & Computer Science at the University of California, Irvine, and a bachelor’s in Political Science from <a href="https://www.college.columbia.edu/" target="_blank" style="text-decoration: none;">Columbia University</a>. My industry background includes experiences in tech and management consulting, having worked Meta and PricewaterhouseCoopers.
+    Before joining Virginia Tech in 2021, I was a postdoctoral researcher in the <a href="https://nlp.stanford.edu/people/" target="_blank" style="text-decoration: none;">Stanford NLP Group</a> at <a href="https://www.cs.stanford.edu/about" target="_blank" style="text-decoration: none;">Stanford Computer Science</a>, working with <a href="https://web.stanford.edu/~jurafsky/" target="_blank" style="text-decoration: none;">Dan Jurafsky</a>. I hold a PhD from the School of Information & Computer Science at the University of California, Irvine, and a bachelor’s in Political Science from <a href="https://www.college.columbia.edu/" target="_blank" style="text-decoration: none;">Columbia University</a>. My industry background includes experiences in tech and management consulting, having worked Meta and PricewaterhouseCoopers.
 </p>
 
 <p style="margin-bottom: 20px;line-height: 1.5;">
@@ -79,8 +79,8 @@ scholar_userid: jFXHPvoAAAAJ
 ## Education
 
 <ul style="list-style-type: disc; padding-left: 40px; margin-bottom: 25px;">
-    <li style="margin-bottom: 15px;">Postdoc, Department of Computer Science, Stanford University, Palo Alto, CA, USA</li>
-    <li style="margin-bottom: 15px;">PhD, University of California, Irvine, CA, USA</li>
+    <li style="margin-bottom: 15px;">Postdoc, Department of Computer Science, Stanford University, Palo Alto, CA, USA, 2021 </li>
+    <li style="margin-bottom: 15px;">PhD, University of California, Irvine, CA, USA<, 2020 /li>,
     <li style="margin-bottom: 15px;">BA, Columbia University, New York, NY, USA</li>
 </ul>
 
