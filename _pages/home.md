@@ -37,7 +37,7 @@ scholar_userid: jFXHPvoAAAAJ
 </p>
 
 <p style="margin-bottom: 20px; line-height: 1.55;">
-    At <a href="https://cs.vt.edu/" style="text-decoration: none;">Virginia Tech CS</a>, I lead the 
+    At <a href="https://cs.vt.edu/" style="text-decoration: none;">Virginia Tech CS</a>, where I started as faculty in 2021, I lead the 
     <a href="https://eugeniarho.com/sail/" style="text-decoration: none;">
         <sup style="vertical-align: top;">
             <img src="/assets/images/sail_logo.svg" alt="SAIL Lab Logo" class="sail-logo" style="width: 30px; height: 30px; vertical-align: top;"/>
