@@ -37,7 +37,7 @@ scholar_userid: jFXHPvoAAAAJ
 </p>
 
 <p style="margin-bottom: 20px; line-height: 1.55;">
-    At <a href="https://cs.vt.edu/" style="text-decoration: none;">Virginia Tech CS</a> I lead the 
+    At <a href="https://cs.vt.edu/" style="text-decoration: none;">Virginia Tech CS</a>, I lead the 
     <a href="https://eugeniarho.com/sail/" style="text-decoration: none;">
         <sup style="vertical-align: top;">
             <img src="/assets/images/sail_logo.svg" alt="SAIL Lab Logo" class="sail-logo" style="width: 30px; height: 30px; vertical-align: top;"/>
@@ -79,8 +79,8 @@ scholar_userid: jFXHPvoAAAAJ
 ## Education
 
 <ul style="list-style-type: disc; padding-left: 40px; margin-bottom: 25px;">
-    <li style="margin-bottom: 15px;">Postdoc, Department of Computer Science, Stanford University, Palo Alto, CA, USA, 2021 </li>
-    <li style="margin-bottom: 15px;">PhD, University of California, Irvine, CA, USA<, 2020 /li>,
+    <li style="margin-bottom: 15px;">Postdoc, Department of Computer Science, Stanford University, Palo Alto, CA, USA</li>
+    <li style="margin-bottom: 15px;">PhD, University of California, Irvine, CA, USA</li>,
     <li style="margin-bottom: 15px;">BA, Columbia University, New York, NY, USA</li>
 </ul>
 
