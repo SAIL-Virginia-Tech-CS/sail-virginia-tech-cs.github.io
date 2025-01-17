@@ -178,7 +178,7 @@ scholar_userid: jFXHPvoAAAAJ
         Buse Carik, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>AACM Conference on Human Factors in Computing Systems (CHI))</em>, 2025 (Accepted).
+        <em>AACM Conference on Human Factors in Computing Systems (CHI)</em>, 2025 (Accepted).
       </div>
     </td>
   </tr> 
