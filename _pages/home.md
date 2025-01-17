@@ -167,7 +167,21 @@ scholar_userid: jFXHPvoAAAAJ
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;">
  
-  
+  <!-- Publication 2025f -->
+  <tr style="border: none;">
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025e]</td>
+    <td style="vertical-align: top; padding-left: 0; border: none;">
+      <div style="margin-bottom: 5px;">
+        <a href="">Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk</a>
+      </div>
+      <div>
+        Buse Carik, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and <strong>Eugenia H. Rho†</strong>.
+      </div>
+      <div style="margin-top: 5px; margin-bottom: 10px;">
+        <em>AACM Conference on Human Factors in Computing Systems (CHI))</em>, 2025 (Accepted).
+      </div>
+    </td>
+  </tr> 
   
 
   <!-- Publication 2025e -->
@@ -223,7 +237,7 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025b]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        Perceiving and Countering Hate: The Role of Identity in Online Responses
+        <a href="https://arxiv.org/abs/2411.01675">Perceiving and Countering Hate: The Role of Identity in Online Responses</a>
       </div>
       <div>
         Kaike Ping, James Hawdon, and <strong>Eugenia H. Rho†</strong>.
