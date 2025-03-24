@@ -30,14 +30,20 @@
 
 - name: "Taufiq Daryanto"
   title: "PhD Student"
-  url: 
+  url:
   image: "assets/images/team/Taufiq_c.png"
   current: true
 
 - name: "Kirk Knutsen"
   title: "PhD Student"
-  url: "https://kirkknutsen.com/" 
+  url: "https://kirkknutsen.com/"
   image: "assets/images/team/headshotKirkKnutsen.jpg"
+  current: true
+
+- name: "Caleb Wohn"
+  title: "PhD Student"
+  url:
+  image: "assets/images/team/caleb.jpg"
   current: true
 
 - name: "<i class='fas fa-graduation-cap'></i> Anisha Kumar"
@@ -46,7 +52,6 @@
   image: "assets/images/team/Anisha_c-150x150.png"
   current: false
   job: "Booz Allen Hamilton"
-
 
 - name: "Sophia Stil"
   title: "MS Student"
@@ -60,7 +65,7 @@
   image: "assets/images/team/Uma_c.png"
   current: false
   job: "Machine Learning Engineer, IBM"
-  
+
 - name: "<i class='fas fa-graduation-cap'></i> Rohan Leeha"
   title: "MS Student"
   url:
