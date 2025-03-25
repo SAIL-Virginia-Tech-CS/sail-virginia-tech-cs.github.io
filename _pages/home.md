@@ -226,8 +226,11 @@ scholar_userid: jFXHPvoAAAAJ
       <div>
         Taufiq Daryanto, Xiaohan Ding, Lance T Wilhelm, Sophia Stil, Kirk Knutsen, and <strong>Eugenia H. Rho†</strong>.
       </div>
-      <div style="margin-top: 5px; margin-bottom: 10px;">
+      <div style="margin-top: 5px; margin-bottom: 5px;">
         <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025 (Accepted).
+      </div>
+      <div style="margin-bottom: 10px;">
+        <a href="https://youtu.be/msMYqM4hbeE">Video</a>
       </div>
     </td>
   </tr>
