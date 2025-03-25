@@ -229,6 +229,9 @@ scholar_userid: jFXHPvoAAAAJ
       <div style="margin-top: 5px; margin-bottom: 10px;">
         <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025 (Accepted).
       </div>
+      <div style="margin-bottom: 5px;">
+        <a href="https://youtu.be/msMYqM4hbeE">Video</a>
+      </div>
     </td>
   </tr>
 
