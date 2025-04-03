@@ -172,7 +172,7 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025e]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="">Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk</a>
+        <a href="https://arxiv.org/abs/2503.17504">Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk</a>
       </div>
       <div>
         Buse Carik, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and <strong>Eugenia H. Rho†</strong>.
