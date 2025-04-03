@@ -629,6 +629,7 @@ scholar_userid: jFXHPvoAAAAJ
 ## Teaching
 
 <ul>
+    <li><a href="https://docs.google.com/spreadsheets/d/18zgpxcrvnvCPp-jVfp8YNlAzpDHf7Nfp/edit?usp=sharing&ouid=114206587396495364517&rtpof=true&sd=true" style="text-decoration: none;"><strong>CS 6724</strong> Human-AI Interaction - Spring 2025</a></li>
     <li><a href="https://canvas.vt.edu/" style="text-decoration: none;"><strong>CS 3724</strong> Human-Computer Interaction Capstone - Fall 2024</a></li>
     <li><a href="https://canvas.vt.edu/" style="text-decoration: none;"><strong>CS 3724</strong> Introduction to Human-Computer Interaction - Spring 2024</a></li>
     <li><a href="/teaching/cs5914-human-ai-interaction-powered-by-llms/" style="text-decoration: none;"><strong>CS 5914</strong> Human AI Interaction Powered by Large Language Models - Fall 2023</a></li>
