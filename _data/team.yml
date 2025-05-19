@@ -46,18 +46,18 @@
   image: "assets/images/team/caleb.jpg"
   current: true
 
+- name: "<i class='fas fa-graduation-cap'></i> Sophia Stil"
+  title: "MS Student"
+  url: "http://www.linkedin.com/in/sophia-stil-183122248"
+  image: "assets/images/team/Sophia_c.jpeg"
+  current: false
+
 - name: "<i class='fas fa-graduation-cap'></i> Anisha Kumar"
   title: "MS Student"
   url: "https://www.linkedin.com/in/anishakumar96/"
   image: "assets/images/team/Anisha_c-150x150.png"
   current: false
   job: "Booz Allen Hamilton"
-
-- name: "Sophia Stil"
-  title: "MS Student"
-  url: "http://www.linkedin.com/in/sophia-stil-183122248"
-  image: "assets/images/team/Sophia_c.jpeg"
-  current: true
 
 - name: "<i class='fas fa-graduation-cap'></i> Uma Gunturi"
   title: "MS Student"
