@@ -166,22 +166,58 @@ scholar_userid: jFXHPvoAAAAJ
 
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;">
- 
+
+<!-- Publication 2025h -->
+<tr style="border: none;">
+  <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025h]</td>
+  <td style="vertical-align: top; padding-left: 0; border: none;">
+    <div style="margin-bottom: 5px;">
+      <a href="
+      https://doi.org/10.48550/arXiv.2505.14452">How Managers Perceive AI-Assisted Conversational Training for Workplace Communication</a>
+    </div>
+    <div>
+      Lance T. Wilhelm, Xiaohan Ding, Kirk McInnis Knutsen, Buse Carik, and <strong>Eugenia H. Rho†</strong>.
+    </div>
+    <div style="margin-top: 5px; margin-bottom: 10px;">
+      <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025 (Accepted).
+    </div>
+  </td>
+</tr>
+
+
+<!-- Publication 2025g -->
+<tr style="border: none;">
+  <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025g]</td>
+  <td style="vertical-align: top; padding-left: 0; border: none;">
+    <div style="margin-bottom: 5px;">
+      <a href="#">PITCH: Designing Agentic Conversational Support for Planning and Self-reflection</a>
+    </div>
+    <div>
+      Adnan Abbas, Caleb Wohn, Donghan Hu, <strong>Eugenia H. Rho†</strong>, and Sang Won Lee.
+    </div>
+    <div style="margin-top: 5px; margin-bottom: 10px;">
+      <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025 (Accepted).
+    </div>
+  </td>
+</tr>
+
+
   <!-- Publication 2025f -->
   <tr style="border: none;">
-    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025e]</td>
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025f]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="https://arxiv.org/abs/2503.17504">Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk</a>
+        <a href="https://dl.acm.org/doi/10.1145/3706598.3714287">Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk</a>
       </div>
       <div>
         Buse Carik, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>AACM Conference on Human Factors in Computing Systems (CHI)</em>, 2025 (Accepted).
+        <em>AACM Conference on Human Factors in Computing Systems (CHI)</em>, 2025.
       </div>
     </td>
   </tr> 
+ 
   
 
   <!-- Publication 2025e -->
@@ -211,7 +247,7 @@ scholar_userid: jFXHPvoAAAAJ
         Buse Carik, Kaike Ping, Xiaohan Ding, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025 (Accepted).
+        <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025.
       </div>
     </td>
   </tr>
@@ -227,7 +263,7 @@ scholar_userid: jFXHPvoAAAAJ
         Taufiq Daryanto, Xiaohan Ding, Lance T Wilhelm, Sophia Stil, Kirk Knutsen, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 5px;">
-        <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025 (Accepted).
+        <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025.
       </div>
       <div style="margin-bottom: 10px;">
         <a href="https://youtu.be/msMYqM4hbeE">Video</a>
