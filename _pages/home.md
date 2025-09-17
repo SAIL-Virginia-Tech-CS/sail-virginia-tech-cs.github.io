@@ -167,9 +167,9 @@ scholar_userid: jFXHPvoAAAAJ
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;">
 
-<!-- Publication 2025i -->
+<!-- Publication 2025j -->
 <tr style="border: none;">
-  <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025i]</td>
+  <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025j]</td>
   <td style="vertical-align: top; padding-left: 0; border: none;">
     <div style="margin-bottom: 5px;">
       <a href="#">A Multi-Level Benchmark for Causal Language Understanding in Social Media Discourse</a>
@@ -179,6 +179,22 @@ scholar_userid: jFXHPvoAAAAJ
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2025 (Accepted).
+    </div>
+  </td>
+</tr>
+
+<!-- Publication 2025i -->
+<tr style="border: none;">
+  <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025i]</td>
+  <td style="vertical-align: top; padding-left: 0; border: none;">
+    <div style="margin-bottom: 5px;">
+      <a href="#">Designing Conversational AI to Support Think-Aloud Practice in Technical Interview Preparation for CS Students</a>
+    </div>
+    <div>
+      Taufiq Daryanto, Sophia Stil, Xiaohan Ding, Daniel Manesh, Sang Won Lee, Tim Lee, Stephanie Lunn, Sarah Rodriguez, Chris Brown, and <strong>Eugenia H. Rho†</strong>.
+    </div>
+    <div style="margin-top: 5px; margin-bottom: 10px;">
+      <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC)</em>, 2025 (Accepted).
     </div>
   </td>
 </tr>
@@ -241,13 +257,13 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025e]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="https://doi.org/10.48550/arXiv.2410.03032">Counterquill: Investigating the Potential of Human-AI Collaboration in Online Counterspeech Writing</a>
+        <a href="https://doi.org/10.48550/arXiv.2410.03032">Designing Human-AI Collaboration to Support Learning in Counterspeech Writing</a>
       </div>
       <div>
         Xiaohan Ding, Kaike Ping, Uma Sushmitha Gunturi, Buse Carik, Ms Sophia Stil, Lance T Wilhelm, Taufiq Daryanto, Dr James Hawdon, Sang Won Lee, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>ACM Transactions on Computer-Human Interaction (TOCHI)</em>, 2025 (Under Review).
+        <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC)</em>, 2025 (Accepted).
       </div>
     </td>
   </tr>
