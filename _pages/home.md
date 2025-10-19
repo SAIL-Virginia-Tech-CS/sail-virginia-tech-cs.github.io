@@ -252,7 +252,8 @@ scholar_userid: jFXHPvoAAAAJ
  
   
 
-  <!-- Publication 2025e -->
+
+<!-- Publication 2025e -->
 <tr style="border: none;">
   <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025e]</td>
   <td style="vertical-align: top; padding-left: 0; border: none;">
@@ -260,7 +261,8 @@ scholar_userid: jFXHPvoAAAAJ
       <a href="https://doi.org/10.48550/arXiv.2410.03032">Designing Human-AI Collaboration to Support Learning in Counterspeech Writing</a>
     </div>
     <div>
-      Xiaohan Ding, Kaike Ping, Uma Sushmitha Gunturi, Buse Carik, Ms Sophia Stil, Lance T Wilhelm, Taufiq Daryanto, Dr James Hawdon, Sang Won Lee, and <strong>Eugenia H. Rho†</strong>.
+      Xiaohan Ding, Kaike Ping, Uma Sushmitha Gunturi, Buse Carik, Ms Sophia Stil, Lance T Wilhelm,
+      Taufiq Daryanto, Dr James Hawdon, Sang Won Lee, and <strong>Eugenia H. Rho†</strong>.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</em>, 2025 (Accepted).
@@ -270,21 +272,16 @@ scholar_userid: jFXHPvoAAAAJ
     <div style="margin-bottom: 10px; display: flex; gap: 16px;">
 
       <!-- Slides Icon Link -->
-      <a href="{{ '/assets/talk slides/CounterQuill Slides.pdf' | uri_escape | relative_url }}"
+      <a href="{{ '/assets/talk slides/CounterQuill Slides.pdf' | relative_url }}"
          target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 5px;">
-          <path d="M4 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.5L9.5 0H4zm5 1.5V4h2.5L9 1.5zM4 14V2h4v3h3v9H4z"/>
-        </svg>
+        <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
         Slides
       </a>
 
       <!-- Video Icon Link -->
       <a href="https://www.youtube.com/watch?v=MwfrND_nkFQ"
          target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 5px;">
-          <path d="M6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/>
-          <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4z"/>
-        </svg>
+        <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
         Video
       </a>
 
