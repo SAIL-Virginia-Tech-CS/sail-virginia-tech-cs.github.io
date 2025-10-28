@@ -25,26 +25,26 @@ scholar_userid: jFXHPvoAAAAJ
 </p>
 
 <p style="margin-bottom: 20px;line-height: 1.55;">
-    My research integrates Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Statistics 
-    to study language as a unit of analysis to (1) understand the real-world impact of our words, 
-    (2) identify factors that shape our conversations, and 
+    My research integrates Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Statistics
+    to study language as a unit of analysis to (1) understand the real-world impact of our words,
+    (2) identify factors that shape our conversations, and
     (3) explore the role of AI language technologies in enhancing how we communicate and interact with others.
 </p>
 
 <p style="margin-bottom: 20px;line-height: 1.55;">
-    As a Computer Scientist, I’ve always been fascinated by the <a href="https://www.youtube.com/watch?v=f4JsKcrpsaM" style="text-decoration: none;">power of words</a>—how language shapes our thoughts, 
+    As a Computer Scientist, I’ve always been fascinated by the <a href="https://www.youtube.com/watch?v=f4JsKcrpsaM" style="text-decoration: none;">power of words</a>—how language shapes our thoughts,
     interactions, and relationships.
 </p>
 
 <p style="margin-bottom: 20px; line-height: 1.55;">
-    At <a href="https://cs.vt.edu/" style="text-decoration: none;">Virginia Tech CS</a>, I lead the 
+    At <a href="https://cs.vt.edu/" style="text-decoration: none;">Virginia Tech CS</a>, I lead the
     <a href="https://eugeniarho.com/sail/" style="text-decoration: none;">
         <sup style="vertical-align: top;">
             <img src="/assets/images/sail_logo.svg" alt="SAIL Lab Logo" class="sail-logo" style="width: 30px; height: 30px; vertical-align: top;"/>
-        </sup> 
+        </sup>
         Society + AI & Language (SAIL)
-    </a> lab, where I apply and develop NLP pipelines using large language models (LLMs)<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a>,<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120" style="text-decoration: none;">3</a>,<a href="https://arxiv.org/abs/2403.16514" style="text-decoration: none;">4</a>,<a href="https://arxiv.org/abs/2403.14117" style="text-decoration: none;">5</a></sup> 
-    to predict conversational trajectories<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a></sup> and outcomes<sup><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a>,<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120" style="text-decoration: none;">3</a>,<a href="https://dl.acm.org/doi/10.1145/3313831.3376542" style="text-decoration: none;">6</a></sup>. I apply advanced statistics to quantify the real-world impact<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a>,<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120" style="text-decoration: none;">3</a>,<a href="https://arxiv.org/abs/2403.16514" style="text-decoration: none;">4</a>,<a href="https://dl.acm.org/doi/10.1145/3313831.3376542" style="text-decoration: none;">6</a></sup> 
+    </a> lab, where I apply and develop NLP pipelines using large language models (LLMs)<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a>,<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120" style="text-decoration: none;">3</a>,<a href="https://arxiv.org/abs/2403.16514" style="text-decoration: none;">4</a>,<a href="https://arxiv.org/abs/2403.14117" style="text-decoration: none;">5</a></sup>
+    to predict conversational trajectories<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a></sup> and outcomes<sup><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a>,<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120" style="text-decoration: none;">3</a>,<a href="https://dl.acm.org/doi/10.1145/3313831.3376542" style="text-decoration: none;">6</a></sup>. I apply advanced statistics to quantify the real-world impact<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22135" style="text-decoration: none;">2</a>,<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2216162120" style="text-decoration: none;">3</a>,<a href="https://arxiv.org/abs/2403.16514" style="text-decoration: none;">4</a>,<a href="https://dl.acm.org/doi/10.1145/3313831.3376542" style="text-decoration: none;">6</a></sup>
     of how we communicate across diverse contexts. Leveraging these insights, I use HCI principles and design thinking to build human-centered AI language technologies<sup><a href="https://arxiv.org/abs/2410.03032" style="text-decoration: none;">7</a>,<a href="https://arxiv.org/abs/2410.05570" style="text-decoration: none;">11</a></sup> that aim to help people understand<sup><a href="https://arxiv.org/abs/2410.06336/" style="text-decoration: none;">8</a>,<a href="https://eugeniarho.com/publications/" style="text-decoration: none;">9</a></sup>, anticipate<sup><a href="https://dl.acm.org/doi/10.1145/3613904.3642117" style="text-decoration: none;">1</a>,<a href="https://arxiv.org/abs/2403.14117" style="text-decoration: none;">3</a>,<a href="https://arxiv.org/abs/2410.05570" style="text-decoration: none;">11</a></sup>, and prevent<sup><a href="https://arxiv.org/abs/2403.17116" style="text-decoration: none;">10</a>,<a href="https://arxiv.org/abs/2410.05570" style="text-decoration: none;">11</a></sup> communication breakdowns. Collaborating with experts in psychology, public health, law enforcement, and medical practitioners working with autistic clients, I aim to build helpful language technologies that are also ethical and context-sensitive.
 </p>
 
@@ -61,16 +61,16 @@ scholar_userid: jFXHPvoAAAAJ
 </p>
 
 <p style="margin-bottom: 20px;line-height: 1.5;">
-    Feel free to check out my <a href="/assets/pdf/Rho_CV_public.pdf" target="_blank" style="text-decoration: none;">CV</a>. 
+    Feel free to check out my <a href="/assets/pdf/Rho_CV_public.pdf" target="_blank" style="text-decoration: none;">CV</a>.
     I can be reached at eugenia [at] vt [dot] edu if you’d like to collaborate or chat about ideas related to language, data, and technology.
 </p>
 
- 
- 
-  
-  
-  
-  
+
+
+
+
+
+
 
     </div>
 
@@ -165,7 +165,7 @@ scholar_userid: jFXHPvoAAAAJ
 <!-- <p><em>* denotes co-first authorship;</em> † Indicates first authorship by PhD/MS student advised by me as the principal investigator.</p> -->
 
 
-<table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;">
+<table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;" class="publications">
 
 <!-- Publication 2025j -->
 <tr style="border: none;">
@@ -196,6 +196,21 @@ scholar_userid: jFXHPvoAAAAJ
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC)</em>, 2025 (Accepted).
     </div>
+    <!-- Links: Slides + Video -->
+    <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+      <!-- Slides Icon Link -->
+      <a href="{{ '/assets/talk slides/Taufiq_Daryanto_TechInterview VL HCC_Slides.pdf' | relative_url }}"
+         target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+        Slides
+      </a>
+      <!-- Video Icon Link -->
+      <a href="https://youtu.be/oGtnGbRDmbY?si=6hWVVv43kP15cquX"
+         target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+        Video
+      </a>
+    </div>
   </td>
 </tr>
 
@@ -212,6 +227,21 @@ scholar_userid: jFXHPvoAAAAJ
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025 (Accepted).
+    </div>
+    <!-- Links: Slides + Video -->
+    <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+      <!-- Slides Icon Link -->
+      <a href="{{ '/assets/talk slides/Lance_Wilhelm_CommCoach CUI_Slides.pdf' | relative_url }}"
+         target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+        Slides
+      </a>
+      <!-- Video Icon Link -->
+      <a href="https://youtu.be/zu1XtojImzM?si=65b1O33KSXX2AXfo"
+         target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+        Video
+      </a>
     </div>
   </td>
 </tr>
@@ -247,10 +277,25 @@ scholar_userid: jFXHPvoAAAAJ
       <div style="margin-top: 5px; margin-bottom: 10px;">
         <em>AACM Conference on Human Factors in Computing Systems (CHI)</em>, 2025.
       </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <a href="{{ '/assets/talk slides/Buse_Carik_ReimaginingSelfTalk_CHI.pdf' | relative_url }}"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a>
+        <!-- Video Icon Link -->
+        <a href="https://youtu.be/h5UcsSKt-A4?si=G2i_zGzvIXKUhxPn"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a>
+      </div>
     </td>
-  </tr> 
- 
-  
+  </tr>
+
+
 
 
 <!-- Publication 2025e -->
@@ -267,24 +312,20 @@ scholar_userid: jFXHPvoAAAAJ
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</em>, 2025 (Accepted).
     </div>
-
     <!-- Links: Slides + Video -->
     <div style="margin-bottom: 10px; display: flex; gap: 16px;">
-
       <!-- Slides Icon Link -->
       <a href="{{ '/assets/talk slides/CounterQuill Slides.pdf' | relative_url }}"
          target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
         <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
         Slides
       </a>
-
       <!-- Video Icon Link -->
-      <a href="https://www.youtube.com/watch?v=MwfrND_nkFQ"
+      <a href="https://youtu.be/Cqx7S2bloN8?si=_W8DFdKWGEiWJGUC"
          target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
         <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
         Video
       </a>
-
     </div>
   </td>
 </tr>
@@ -303,6 +344,21 @@ scholar_userid: jFXHPvoAAAAJ
       <div style="margin-top: 5px; margin-bottom: 10px;">
         <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025.
       </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <a href="{{ '/assets/talk slides/Buse_Carik_ExploringLLMs_GROUP.pdf' | relative_url }}"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a>
+        <!-- Video Icon Link -->
+        <a href="https://youtu.be/nOD8sApvOR8?si=2cVXgix3lqc4XpBE"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a>
+      </div>
     </td>
   </tr>
 
@@ -319,8 +375,20 @@ scholar_userid: jFXHPvoAAAAJ
       <div style="margin-top: 5px; margin-bottom: 5px;">
         <em>ACM International Conference on Supporting Group Work (GROUP)</em>, 2025.
       </div>
-      <div style="margin-bottom: 10px;">
-        <a href="https://youtu.be/msMYqM4hbeE">Video</a>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <a href="{{ '/assets/talk slides/Taufiq_Daryanto_Conversate GROUP_Slides.pdf' | relative_url }}"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a>
+        <!-- Video Icon Link -->
+        <a href="https://youtu.be/VqBtPTmj4H8?si=nqTVgfbwb-8ktC4Y"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a>
       </div>
     </td>
   </tr>
@@ -337,6 +405,21 @@ scholar_userid: jFXHPvoAAAAJ
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
         <em>ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW)</em>, 2025 (Accepted).
+      </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <a href="{{ '/assets/talk slides/Kaike_Ping_Counterspeech_CSCW.pdf' | relative_url }}"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a>
+        <!-- Video Icon Link -->
+        <a href="https://youtu.be/kl_hx9WN1FU?si=XiV4ru0p4i8D9ZAE"
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a>
       </div>
     </td>
   </tr>
@@ -420,7 +503,7 @@ scholar_userid: jFXHPvoAAAAJ
       </div>
     </td>
   </tr>
-  
+
 <!-- Publication 2023d -->
   <tr style="border: none;">
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2023d]</td>
