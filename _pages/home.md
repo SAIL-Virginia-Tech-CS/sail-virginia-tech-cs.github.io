@@ -172,7 +172,7 @@ scholar_userid: jFXHPvoAAAAJ
   <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025j]</td>
   <td style="vertical-align: top; padding-left: 0; border: none;">
     <div style="margin-bottom: 5px;">
-      <a href="#">A Multi-Level Benchmark for Causal Language Understanding in Social Media Discourse</a>
+      <a href="https://arxiv.org/abs/2509.16722">A Multi-Level Benchmark for Causal Language Understanding in Social Media Discourse</a>
     </div>
     <div>
       Xiaohan Ding, Kaike Ping, Buse Çarık, and <strong>Eugenia H. Rho†</strong>.
@@ -188,7 +188,7 @@ scholar_userid: jFXHPvoAAAAJ
   <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025i]</td>
   <td style="vertical-align: top; padding-left: 0; border: none;">
     <div style="margin-bottom: 5px;">
-      <a href="#">Designing Conversational AI to Support Think-Aloud Practice in Technical Interview Preparation for CS Students</a>
+      <a href="https://arxiv.org/abs/2507.14418">Designing Conversational AI to Support Think-Aloud Practice in Technical Interview Preparation for CS Students</a>
     </div>
     <div>
       Taufiq Daryanto, Sophia Stil, Xiaohan Ding, Daniel Manesh, Sang Won Lee, Tim Lee, Stephanie Lunn, Sarah Rodriguez, Chris Brown, and <strong>Eugenia H. Rho†</strong>.
@@ -252,7 +252,7 @@ scholar_userid: jFXHPvoAAAAJ
   <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025g]</td>
   <td style="vertical-align: top; padding-left: 0; border: none;">
     <div style="margin-bottom: 5px;">
-      <a href="#">PITCH: Designing Agentic Conversational Support for Planning and Self-reflection</a>
+      <a href="https://dl.acm.org/doi/full/10.1145/3719160.3736634">PITCH: Designing Agentic Conversational Support for Planning and Self-reflection</a>
     </div>
     <div>
       Adnan Abbas, Caleb Wohn, Donghan Hu, <strong>Eugenia H. Rho†</strong>, and Sang Won Lee.
@@ -336,7 +336,7 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025d]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="https://doi.org/10.48550/arXiv.2410.06336">Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3701194">Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns</a>
       </div>
       <div>
         Buse Carik, Kaike Ping, Xiaohan Ding, and <strong>Eugenia H. Rho†</strong>.
@@ -367,7 +367,7 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025c]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="https://doi.org/10.48550/arXiv.2410.05570">Conversate: Supporting Reflective Learning in Interview Practice Through Interactive Simulation and Dialogic Feedback</a>
+        <a href="https://dl.acm.org/doi/10.1145/3701188">Conversate: Supporting Reflective Learning in Interview Practice Through Interactive Simulation and Dialogic Feedback</a>
       </div>
       <div>
         Taufiq Daryanto, Xiaohan Ding, Lance T Wilhelm, Sophia Stil, Kirk Knutsen, and <strong>Eugenia H. Rho†</strong>.
@@ -398,7 +398,7 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025b]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="https://arxiv.org/abs/2411.01675">Perceiving and Countering Hate: The Role of Identity in Online Responses</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3711045">Perceiving and Countering Hate: The Role of Identity in Online Responses</a>
       </div>
       <div>
         Kaike Ping, James Hawdon, and <strong>Eugenia H. Rho†</strong>.
@@ -429,7 +429,7 @@ scholar_userid: jFXHPvoAAAAJ
     <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025a]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
-        <a href="https://arxiv.org/abs/2403.17116">Behind the Counter: Exploring the Motivations and Barriers of Online Counterspeech Writing and the Potential for AI-Mediated Assistance</a>
+        <a href="https://dl.acm.org/doi/full/10.1145/3745769">Behind the Counter: Exploring the Motivations and Barriers of Online Counterspeech Writing and the Potential for AI-Mediated Assistance</a>
       </div>
       <div>
         Kaike Ping, Anisha Kumar, and <strong>Eugenia H. Rho†</strong>.
