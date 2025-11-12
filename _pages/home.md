@@ -180,6 +180,21 @@ scholar_userid: jFXHPvoAAAAJ
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2025 (Accepted).
     </div>
+    <!-- Links: Slides + Video -->
+    <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+      <!-- Slides Icon Link -->
+      <a href="{{ '/assets/talk slides/EMNLP.pdf' | relative_url }}"
+         target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+        Slides
+      </a>
+      <!-- Video Icon Link -->
+      <a href="https://www.youtube.com/watch?v=ISxaZC6AKiU"
+         target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+        Video
+      </a>
+    </div>
   </td>
 </tr>
 
