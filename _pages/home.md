@@ -170,7 +170,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 <!-- Publication 2026c -->
   <tr style="border: none;">
-    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026a]</td>
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026c]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
         <a href="">"Are We Writing an Advice Column for Spock Here?" Understanding Stereotypes in AI Advice for Autistic Users</a>
@@ -201,7 +201,7 @@ scholar_userid: jFXHPvoAAAAJ
 
 <!-- Publication 2026b -->
   <tr style="border: none;">
-    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026a]</td>
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026b]</td>
     <td style="vertical-align: top; padding-left: 0; border: none;">
       <div style="margin-bottom: 5px;">
         <a href="">Human-Human-AI Pair Programming: Uncovering the Role of Agentic AI and the Value of a Human Partner in Collaborative Learning</a>
