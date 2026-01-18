@@ -28,23 +28,17 @@
   image: "assets/images/team/Lance_c.png"
   current: true
 
-- name: "Taufiq Daryanto"
-  title: "PhD Student"
-  url:
-  image: "assets/images/team/Taufiq_c.png"
-  current: true
-
-- name: "Kirk Knutsen"
-  title: "PhD Student"
-  url: "https://kirkknutsen.com/"
-  image: "assets/images/team/headshotKirkKnutsen.jpg"
-  current: true
-
 - name: "Caleb Wohn"
   title: "PhD Student"
-  url:
+  url: "https://cwohn.github.io/"
   image: "assets/images/team/caleb.jpg"
   current: true
+
+- name: "<i class='fas fa-graduation-cap'></i> Taufiq Daryanto"
+  title: "MS Student"
+  url:
+  image: "assets/images/team/Taufiq_c.png"
+  current: false
 
 - name: "<i class='fas fa-graduation-cap'></i> Sophia Stil"
   title: "MS Student"
