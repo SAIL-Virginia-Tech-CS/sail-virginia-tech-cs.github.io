@@ -7,7 +7,7 @@ classes: wide home
 
 # Social media and other links
 email: eugenia@vt.edu
-cv: /assets/pdf/CV_2026Jan_EugeniaRho.pdf
+cv: /assets/pdf/CV_20260117_EugeniaRho.pdf
 scholar_userid: jFXHPvoAAAAJ
 ---
 
@@ -163,23 +163,116 @@ scholar_userid: jFXHPvoAAAAJ
 ## Publications
 
 
-<!-- <p><em>* denotes co-first authorship;</em> † Indicates first authorship by PhD/MS student advised by me as the principal investigator.</p> -->
+<p><em>* denotes co-first authorship;</em> † indicates my role as lead principal investigator for the project.</p>
 
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;" class="publications">
+
+<!-- Publication 2026c -->
+  <tr style="border: none;">
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026a]</td>
+    <td style="vertical-align: top; padding-left: 0; border: none;">
+      <div style="margin-bottom: 5px;">
+        <a href="">"Are We Writing an Advice Column for Spock Here?" Understanding Stereotypes in AI Advice for Autistic Users</a>
+      </div>
+      <div>
+      Caleb Wohn, Buse Carik, Xiaohan Ding, Sang Won Lee, Young-Ho Kim, and <strong>Eugenia H. Rho†</strong>.
+      </div>
+      <div style="margin-top: 5px; margin-bottom: 10px;">
+        <em>ACM Conference on Human Factors in Computing Systems (CHI)</em>, 2026 (Accepted).
+      </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <!--  <a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a> -->
+        <!-- Video Icon Link -->
+        <!--<a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a> -->
+      </div>
+    </td>
+  </tr>
+
+<!-- Publication 2026b -->
+  <tr style="border: none;">
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026a]</td>
+    <td style="vertical-align: top; padding-left: 0; border: none;">
+      <div style="margin-bottom: 5px;">
+        <a href="">Human-Human-AI Pair Programming: Uncovering the Role of Agentic AI and the Value of a Human Partner in Collaborative Learning</a>
+      </div>
+      <div>
+       Taufiq Daryanto, Xiaohan Ding, Lance T. Wilhelm, Kaike Ping, Yan Chen, Chris Brown, and <strong>Eugenia H. Rho†</strong>.
+      </div>
+      <div style="margin-top: 5px; margin-bottom: 10px;">
+        <em>ACM Conference on Human Factors in Computing Systems (CHI)</em>, 2026 (Accepted).
+      </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <!--  <a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a> -->
+        <!-- Video Icon Link -->
+        <!--<a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a> -->
+      </div>
+    </td>
+  </tr>
+
+<!-- Publication 2026a -->
+  <tr style="border: none;">
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026a]</td>
+    <td style="vertical-align: top; padding-left: 0; border: none;">
+      <div style="margin-bottom: 5px;">
+        <a href="">Having Lunch Now'': Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection</a>
+      </div>
+      <div>
+       Adnan Abbas, Caleb Wohn, Arnav Jagtap, Eugenia H. Rho, Young-Ho Kim, Lee,Sang Won.
+      </div>
+      <div style="margin-top: 5px; margin-bottom: 10px;">
+        <em>ACM Conference on Human Factors in Computing Systems (CHI)</em>, 2026 (Accepted).
+      </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <!--  <a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a> -->
+        <!-- Video Icon Link -->
+        <!--<a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a> -->
+      </div>
+    </td>
+  </tr>
 
 <!-- Publication 2025j -->
 <tr style="border: none;">
   <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2025j]</td>
   <td style="vertical-align: top; padding-left: 0; border: none;">
     <div style="margin-bottom: 5px;">
-      <a href="https://arxiv.org/abs/2509.16722">A Multi-Level Benchmark for Causal Language Understanding in Social Media Discourse</a>
+      <a href="https://aclanthology.org/2025.emnlp-main.1464/">A Multi-Level Benchmark for Causal Language Understanding in Social Media Discourse</a>
     </div>
     <div>
       Xiaohan Ding, Kaike Ping, Buse Çarık, and <strong>Eugenia H. Rho†</strong>.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
-      <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2025 (Accepted).
+      <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2025.
     </div>
     <!-- Links: Slides + Video -->
     <div style="margin-bottom: 10px; display: flex; gap: 16px;">
@@ -210,7 +303,7 @@ scholar_userid: jFXHPvoAAAAJ
       Taufiq Daryanto, Sophia Stil, Xiaohan Ding, Daniel Manesh, Sang Won Lee, Tim Lee, Stephanie Lunn, Sarah Rodriguez, Chris Brown, and <strong>Eugenia H. Rho†</strong>.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
-      <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC)</em>, 2025 (Accepted).
+      <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC)</em>, 2025.
     </div>
     <!-- Links: Slides + Video -->
     <div style="margin-bottom: 10px; display: flex; gap: 16px;">
@@ -236,13 +329,13 @@ scholar_userid: jFXHPvoAAAAJ
   <td style="vertical-align: top; padding-left: 0; border: none;">
     <div style="margin-bottom: 5px;">
       <a href="
-      https://doi.org/10.48550/arXiv.2505.14452">How Managers Perceive AI-Assisted Conversational Training for Workplace Communication</a>
+      https://dl.acm.org/doi/10.1145/3719160.3736639">How Managers Perceive AI-Assisted Conversational Training for Workplace Communication</a>
     </div>
     <div>
       Lance T. Wilhelm, Xiaohan Ding, Kirk McInnis Knutsen, Buse Carik, and <strong>Eugenia H. Rho†</strong>.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
-      <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025 (Accepted).
+      <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025.
     </div>
     <!-- Links: Slides + Video -->
     <div style="margin-bottom: 10px; display: flex; gap: 16px;">
@@ -274,7 +367,7 @@ scholar_userid: jFXHPvoAAAAJ
       Adnan Abbas, Caleb Wohn, Donghan Hu, <strong>Eugenia H. Rho†</strong>, and Sang Won Lee.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
-      <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025 (Accepted).
+      <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025.
     </div>
   </td>
 </tr>
@@ -326,7 +419,7 @@ scholar_userid: jFXHPvoAAAAJ
       Taufiq Daryanto, Dr James Hawdon, Sang Won Lee, and <strong>Eugenia H. Rho†</strong>.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
-      <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</em>, 2025 (Accepted).
+      <em>IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</em>, 2025.
     </div>
     <!-- Links: Slides + Video -->
     <div style="margin-bottom: 10px; display: flex; gap: 16px;">
@@ -420,7 +513,7 @@ scholar_userid: jFXHPvoAAAAJ
         Kaike Ping, James Hawdon, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW)</em>, 2025 (Accepted).
+        <em>ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW)</em>, 2025.
       </div>
       <!-- Links: Slides + Video -->
       <div style="margin-bottom: 10px; display: flex; gap: 16px;">
@@ -451,7 +544,7 @@ scholar_userid: jFXHPvoAAAAJ
         Kaike Ping, Anisha Kumar, and <strong>Eugenia H. Rho†</strong>.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
-        <em>ACM Transactions on Computer-Human Interaction (TOCHI)</em>, 2025 (Accepted).
+        <em>ACM Transactions on Computer-Human Interaction (TOCHI)</em>, 2025.
       </div>
     </td>
   </tr>
