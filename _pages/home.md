@@ -7,7 +7,7 @@ classes: wide home
 
 # Social media and other links
 email: eugenia@vt.edu
-cv: /assets/pdf/Rho_CV_2025_updated.pdf
+cv: /assets/pdf/CV_2026Jan_EugeniaRho.pdf
 scholar_userid: jFXHPvoAAAAJ
 ---
 
