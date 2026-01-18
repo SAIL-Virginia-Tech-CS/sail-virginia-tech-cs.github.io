@@ -115,9 +115,26 @@ scholar_userid: jFXHPvoAAAAJ
     </li>
 </ul>
 
-## Selected Talks
+##  Talks
+
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 50px;">
+    <li style="margin-bottom: 15px;">
+        <strong><a href="" style="text-decoration: none;"> USC Computer Science, 2026</a></strong><br>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <strong><a href="" style="text-decoration: none;"> NLP Seminar, UCLA Computer Science, 2026</a></strong><br>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <strong><a href="" style="text-decoration: none;"> Computational Linguistics and Information Processing (CLIP) Laboratory, University of Maryland, 2026</a></strong><br>
+    </li>
+    <li style="margin-bottom: 15px;">
+        <strong><a href="" style="text-decoration: none;">When AI Adapts, Teaches, and Trains: Paradoxes and Open Challenges in Human-AI Interaction</a></strong><br>
+        University of California, Irvine 2025
+    </li>
+     <li style="margin-bottom: 15px;">
+        <strong><a href="" style="text-decoration: none;"> Naver AI Lab, South Korea, 2025</a></strong><br>
+    </li>
     <li style="margin-bottom: 15px;">
         <strong><a href="/assets/pdf/VTLxSpeakerSeries.pdf" style="text-decoration: none;">Words Matter: How Language Choices Predict Societal Trends and Outcomes in Media, Health, and Policing</a></strong><br>
         VTLx Speaker Series, February 2024
