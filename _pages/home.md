@@ -238,7 +238,7 @@ scholar_userid: jFXHPvoAAAAJ
         <a href="">Having Lunch Now'': Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection</a>
       </div>
       <div>
-       Adnan Abbas, Caleb Wohn, Arnav Jagtap, <strong>Eugenia H. Rho<strong>, Young-Ho Kim, Lee,Sang Won.
+       Adnan Abbas, Caleb Wohn, Arnav Jagtap, <strong>Eugenia H. Rho</strong>, Young-Ho Kim, Lee,Sang Won.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
         <em>ACM Conference on Human Factors in Computing Systems (CHI)</em>, 2026 (Accepted).
