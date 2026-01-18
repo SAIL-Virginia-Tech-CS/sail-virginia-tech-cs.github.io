@@ -238,7 +238,7 @@ scholar_userid: jFXHPvoAAAAJ
         <a href="">Having Lunch Now'': Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection</a>
       </div>
       <div>
-       Adnan Abbas, Caleb Wohn, Arnav Jagtap, Eugenia H. Rho, Young-Ho Kim, Lee,Sang Won.
+       Adnan Abbas, Caleb Wohn, Arnav Jagtap, <strong>Eugenia H. Rho<strong>, Young-Ho Kim, Lee,Sang Won.
       </div>
       <div style="margin-top: 5px; margin-bottom: 10px;">
         <em>ACM Conference on Human Factors in Computing Systems (CHI)</em>, 2026 (Accepted).
@@ -364,7 +364,7 @@ scholar_userid: jFXHPvoAAAAJ
       <a href="https://dl.acm.org/doi/full/10.1145/3719160.3736634">PITCH: Designing Agentic Conversational Support for Planning and Self-reflection</a>
     </div>
     <div>
-      Adnan Abbas, Caleb Wohn, Donghan Hu, <strong>Eugenia H. Rho†</strong>, and Sang Won Lee.
+      Adnan Abbas, Caleb Wohn, Donghan Hu, <strong>Eugenia H. Rho</strong>, and Sang Won Lee.
     </div>
     <div style="margin-top: 5px; margin-bottom: 10px;">
       <em>ACM Conference on Conversational User Interfaces (CUI)</em>, 2025.
