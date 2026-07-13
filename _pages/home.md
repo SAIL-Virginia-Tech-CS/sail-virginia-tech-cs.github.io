@@ -29,7 +29,7 @@ scholar_userid: jFXHPvoAAAAJ
             <img src="/assets/images/sail_logo.svg" alt="SAIL Lab Logo" class="sail-logo" style="width: 30px; height: 30px; vertical-align: top;"/>
         </sup>
         Society + AI & Language (SAIL)
-    </a> Lab in the Department of Computer Science at <a href="https://computerscience.emory.edu/" style="text-decoration: none;">Emory University</a>.
+    </a> Lab in the <a href="https://computerscience.emory.edu/" style="text-decoration: none;">Department of Computer Science at Emory University</a>.
 </p>
 
 
