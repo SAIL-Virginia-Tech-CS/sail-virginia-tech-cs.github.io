@@ -68,7 +68,7 @@ scholar_userid: jFXHPvoAAAAJ
     <li style="margin-bottom: 15px;">B.A., Columbia University</li>
 </ul>
 
-## Professional Appointments and Affiliations
+## Prior Appointments and Affiliations
 
 <ul style="list-style-type: disc; padding-left: 40px; margin-bottom: 50px;">
     <li style="margin-bottom: 15px;">Assistant Professor, Department of Computer Science, Virginia Tech</li>
