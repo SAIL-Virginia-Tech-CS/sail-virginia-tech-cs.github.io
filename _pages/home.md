@@ -11,9 +11,26 @@ cv: /assets/pdf/CV_20260117_EugeniaRho.pdf
 scholar_userid: jFXHPvoAAAAJ
 ---
 
-<div class='rho-profile-header'>
-    <div class='rho-profile-img'>
-        <img src='/assets/images/team/headshot_oct2024_updated.jpg' alt='Eugenia Rho Professional Headshot'/>
+<div class="rho-profile-header">
+    <div
+        class="rho-profile-img"
+        style="
+            width: 340px;
+            flex: 0 0 340px;
+            margin-right: 28px;
+        "
+    >
+        <img
+            src="/assets/images/team/emory_headshot_square.png"
+            alt="Eugenia Rho Professional Headshot"
+            style="
+                display: block;
+                width: 340px !important;
+                max-width: none !important;
+                height: auto !important;
+                border-radius: 8px !important;
+            "
+        />
         <p>Gilbert Place, 220 Gilbert Street, Blacksburg, VA, 24060</p>
         {% include social.html %}
     </div>
