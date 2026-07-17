@@ -21,7 +21,7 @@ scholar_userid: jFXHPvoAAAAJ
         "
     >
         <img
-            src="/assets/images/team/emory_headshot_square.png"
+            src="/assets/images/team/emory_ID_cropped.jpg"
             alt="Eugenia Rho Professional Headshot"
             style="
                 display: block;
