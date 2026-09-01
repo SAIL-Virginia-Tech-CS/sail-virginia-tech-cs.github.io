@@ -59,7 +59,7 @@ classes: sail
     We welcome researchers, students, and collaborators who are interested in joining or collaborating with the 
     <img src='/assets/images/sail_logo.svg' alt='SAIL Lab Logo' class='sail-logo' style='width: 30px; height: 30px; vertical-align: middle;'/> Lab.
     <br/>
-    Please reach out at eugenia [at] vt [dot] edu.
+    Please reach out at eugenia.h.rho [at] emory [dot] edu.
 </p>
 
 

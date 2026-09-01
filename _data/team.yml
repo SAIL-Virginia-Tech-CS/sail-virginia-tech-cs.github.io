@@ -4,12 +4,6 @@
   image: "assets/images/team/headshot_oct2024_updated.jpg"
   current: true
 
-- name: "Xiaohan Ding"
-  title: "PhD Student"
-  url: "https://xiaohanding.com/"
-  image: "assets/images/team/Ding_c-150x150.png"
-  current: true
-
 - name: "Kaike Ping"
   title: "PhD Student"
   url: "https://people.cs.vt.edu/pkk"
@@ -18,7 +12,7 @@
 
 - name: "Buse Carik"
   title: "PhD Student"
-  url: "https://busecarik.github.io/"
+  url: "https://busecarik.com/"
   image: "assets/images/team/Buse_c-150x150.png"
   current: true
 
@@ -33,6 +27,13 @@
   url: "https://cwohn.github.io/"
   image: "assets/images/team/caleb.jpg"
   current: true
+
+- name: "<i class='fas fa-graduation-cap'></i> Xiaohan Ding"
+  title: "PhD Student"
+  url: "https://xiaohanding.com/"
+  image: "assets/images/team/Ding_c-150x150.png"
+  current: false
+  job: "Postdoctoral Researcher, Georgia Tech"
 
 - name: "<i class='fas fa-graduation-cap'></i> Taufiq Daryanto"
   title: "MS Student"

@@ -6,7 +6,7 @@ classes: wide home
 # title: "Eugenia Rho"
 
 # Social media and other links
-email: eugenia@vt.edu
+email: eugenia.h.rho@emory.edu
 cv: /assets/pdf/CV_20260117_EugeniaRho.pdf
 scholar_userid: jFXHPvoAAAAJ
 ---
@@ -247,6 +247,37 @@ scholar_userid: jFXHPvoAAAAJ
 
 
 <table style="width:100%; border-collapse: collapse; margin-top: 20px; font-size: 16px; border: none; margin-bottom: 50px;" class="publications">
+
+<!-- Publication 2026d -->
+  <tr style="border: none;">
+    <td style="vertical-align: top; width: 5%; padding-right: 10px; font-size: 14px; border: none;">[2026d]</td>
+    <td style="vertical-align: top; padding-left: 0; border: none;">
+      <div style="margin-bottom: 5px;">
+        <a href="https://doi.org/10.48550/arXiv.2608.01017">Why LLMs Give In: Conversational Factors and Reasoning Behind Medical Sycophancy</a>
+      </div>
+      <div>
+      Kaike Ping, Buse Çarık, Caleb Wohn, Xiaohan Ding, Tongshuai Wang, and <strong>Eugenia H. Rho†</strong>.
+      </div>
+      <div style="margin-top: 5px; margin-bottom: 10px;">
+        <em>Findings of the Association for Computational Linguistics: EMNLP</em>, 2026 (Accepted, 14.3% acceptance rate).
+      </div>
+      <!-- Links: Slides + Video -->
+      <div style="margin-bottom: 10px; display: flex; gap: 16px;">
+        <!-- Slides Icon Link -->
+        <!--  <a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/slides.svg' | relative_url }}" alt="Slides" style="width: 18px; height: 18px; margin-right: 6px;">
+          Slides
+        </a> -->
+        <!-- Video Icon Link -->
+        <!--<a href=""
+           target="_blank" rel="noopener" style="text-decoration: none; display: flex; align-items: center;">
+          <img src="{{ '/assets/icons/video.svg' | relative_url }}" alt="Video" style="width: 18px; height: 18px; margin-right: 6px;">
+          Video
+        </a> -->
+      </div>
+    </td>
+  </tr>
 
 <!-- Publication 2026c -->
   <tr style="border: none;">
