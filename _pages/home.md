@@ -31,7 +31,10 @@ scholar_userid: jFXHPvoAAAAJ
                 border-radius: 8px !important;
             "
         />
-        <p>Gilbert Place, 220 Gilbert Street, Blacksburg, VA, 24060</p>
+        <p> 301 Dowman Dr, Atlanta, GA 30322</p>
+        <p> Department of Computer Science</p>
+        <p> Emory University</p>
+
         {% include social.html %}
     </div>
     <div class='rho-profile-header-text'>
