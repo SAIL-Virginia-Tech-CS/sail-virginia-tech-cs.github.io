@@ -98,7 +98,7 @@ My research examines how interaction changes intelligent behavior as AI systems 
 
 <p style="margin-bottom: 20px; line-height: 1.65; background-color: #fff3b0; padding: 12px 14px; border-radius: 6px;">
     <strong>PhD Recruiting:</strong>
-    I am recruiting PhD students for Fall 2028. I am particularly interested in students with strong
+    I am recruiting PhD students for Fall 2027. I am particularly interested in students with strong
     backgrounds in statistics, HCI, NLP, multi-agent systems, or related areas who are excited about
     interdisciplinary research. Prospective students should apply to
     <a href="https://computerscience.emory.edu/" style="text-decoration: none;">Emory Computer Science</a>
